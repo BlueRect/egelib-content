@@ -1,6 +1,6 @@
 # Ященко. 36 вариантов
 
-* <a data-href="math//ege//2022//yashchenko//01">Вариант 1</a>
+* <a onclick="loadURL('math//ege//2022//yashchenko//01')">Вариант 1</a>
 
 <!--
 * [Вариант 1](01.md)
