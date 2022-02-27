@@ -1,7 +1,7 @@
 # ЕГЭ по профильной математике — 2022
 
 ### Теория
-* <a href="https://schd.netlify.app/">Теория по алгебре в картинках</a>
+* <a href="https://schd.netlify.app/">Теория по алгебре</a>
 
 ### Сборники
 * <a data-href="math//ege//2022//yashchenko//README">Сборник Ященко. 36 вариантов</a>
