@@ -2,9 +2,7 @@
 
 ### Теория
 * <a href="https://schd.netlify.app/">Теория по алгебре</a>
-* <a data-href="math//ege//2022//ratiomethod">Метод рационализации</a>
+* <a onclick="loadURL('math//ege//2022//ratiomethod')">Метод рационализации</a>
 
 ### Сборники
-* <a data-href="math//ege//2022//yashchenko//README">Сборник Ященко. 36 вариантов</a>
-
-<a data-href="math//ege//README"></a>
+* <a onclick="loadURL('math//ege//2022//yashchenko//README')">Сборник Ященко. 36 вариантов</a>
