@@ -6,3 +6,5 @@
 
 ### Сборники
 * <a data-href="math//ege//2022//yashchenko//README">Сборник Ященко. 36 вариантов</a>
+
+<a data-href="math//ege//README"></a>
