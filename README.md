@@ -1,3 +1,3 @@
 ## Разделы
-* <a onclick="loadURL('math//README')">Математика</a>
+* <a data-href="math//README">Математика</a>
 <!--* [Математика](math/README.md)-->
