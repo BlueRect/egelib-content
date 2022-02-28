@@ -1,3 +1,3 @@
 ## Разделы
 * <a onclick="loadURL('math//README')">Математика</a>
-<!--* [Математика](math/README.md)-->
+* <a onclick="loadURL('rus//README')">Русский язык</a>
