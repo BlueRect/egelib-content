@@ -15,7 +15,7 @@ print('Hello world')
 
 ## Видео
 <videogallery>
-  <a id="videobox"  href="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28"></a>
+  <a id="videobox"  href="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28" data-author="Lorem ipsum"></a>
   <a id="videobox" href="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28"></a>
   <a id="videobox" href="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28"></a>
 <a id="videobox" href="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28"></a>
