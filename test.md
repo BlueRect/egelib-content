@@ -23,6 +23,6 @@ print('Hello world')
 </videogallery>
 
 
-\\( 2\frac{1}{2} = \frac{5}{2} = 2,5 )\\
+\\( 2\\frac{1}{2} = \\frac{5}{2} = 2,5 )\\
 
-<span class="katex">2\frac{1}{2} = \frac{5}{2} = 2,5</span>
+<span class="katex">2\\frac{1}{2} = \\frac{5}{2} = 2,5</span>
