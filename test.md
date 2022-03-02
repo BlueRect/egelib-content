@@ -21,3 +21,6 @@ print('Hello world')
 <a id="videobox" href="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28"></a>
 <a id="videobox" data-url="/" data-title="Lorem ipsum" data-img="https://github.com/BlueRect/egelib-content/blob/main/img/ratiomethod.jpg?raw=true" data-length="1:28"></a>
 </videogallery>
+
+
+\\( 2\frac{1}{2} = \frac{5}{2} = 2,5 )\\
