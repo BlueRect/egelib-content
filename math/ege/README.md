@@ -1,7 +1,10 @@
 # ЕГЭ по профильной математике — 2022
 
 ### Теория
-* <a href="https://schd.netlify.app/">Теория по алгебре</a>
+* <a onclick="loadURL('math//ege//2022//theory//09')">Задание 9</a>
+
+### Вспомогательные материалы
+* <a href="https://schd.netlify.app/">Веб-шпаргалка по алгебре</a>
 * <a onclick="loadURL('math//ege//ratiomethod')">Метод рационализации</a>
 
 ### Сборники
