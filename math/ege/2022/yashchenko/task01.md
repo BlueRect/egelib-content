@@ -77,9 +77,17 @@
 
 ### Вариант 11
 > Найдите корень уравнения <span class="katex">\frac{1}{2x-3} = \frac{1}{8}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_12.jpg">
+<b>Ответ:</b> 5,5.
+</details>
 
 ### Вариант 12
 > Найдите корень уравнения <span class="katex">\frac{1}{5x-14} = \frac{1}{4x-3}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_13.jpg">
+<b>Ответ:</b> 11.
+</details>
 
 ### Вариант 13
 > Найдите корень уравнения <span class="katex">\log_3(2-x) = \log_916</span>.
