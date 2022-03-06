@@ -150,12 +150,24 @@
 
 ### Вариант 21
 > Найдите корень уравнения <span class="katex">0,5^{4-5x} = 64</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_23.jpg">
+<b>Ответ:</b> 2.
+</details>
 
 ### Вариант 22
 > Найдите корень уравнения <span class="katex">0,2^{5+4x} = 125</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_24.jpg">
+<b>Ответ:</b> -2.
+</details>
 
 ### Вариант 23
 > Найдите корень уравнения <span class="katex">\sqrt{11-5x} = 1-x</span>. <br> Если уравнение имеет более одного корня, в ответе запишите наибольший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_25.jpg">
+<b>Ответ:</b> -5.
+</details>
 
 ### Вариант 24
 > Найдите корень уравнения <span class="katex">\sqrt{2x-3} = x-3</span>. <br> Если уравнение имеет более одного корня, в ответе запишите наименьший из корней.
