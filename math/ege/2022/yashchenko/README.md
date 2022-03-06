@@ -6,4 +6,5 @@
 * <a onclick="loadURL('math//ege//2022//yashchenko//36')">Вариант 36</a>
 
 #### По заданиям
+* <a onclick="loadURL('math//ege//2022//yashchenko//task01')">Все задания 1</a>
 * <a onclick="loadURL('math//ege//2022//yashchenko//task02')">Все задания 2</a>
