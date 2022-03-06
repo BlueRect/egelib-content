@@ -91,15 +91,31 @@
 
 ### Вариант 13
 > Найдите корень уравнения <span class="katex">\log_3(2-x) = \log_916</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_14.jpg">
+<b>Ответ:</b> -2.
+</details>
 
 ### Вариант 14
 > Найдите корень уравнения <span class="katex">\log_{0,5}(x+5) = \log_20,2</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_15.jpg">
+<b>Ответ:</b> 0.
+</details>
 
 ### Вариант 15
 >  Найдите корень уравнения <span class="katex">\sqrt{5x} = 2\frac{1}{2}x</span>. Если уравнение имеет более одного корня, в ответе запишите больший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_16.jpg">
+<b>Ответ:</b> 0,8.
+</details>
 
 ### Вариант 16
 > Найдите корень уравнения <span class="katex">\sqrt{-x} = x+6</span>. Если уравнение имеет более одного корня, в ответе запишите меньший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_17.jpg">
+<b>Ответ:</b> -4.
+</details>
 
 ### Вариант 17
 > Найдите корень уравнения <span class="katex">(\frac{1}{4})^{x-2,5} = \frac{1}{8}</span>.
