@@ -50,12 +50,27 @@
 
 ### Вариант 7
 > Найдите корень уравнения <span class="katex">\log_93^{2x+9} = 2</span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_8.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_9.jpg">
+</gallery>
+<b>Ответ:</b> -2,5.
+</details>
 
 ### Вариант 8
 > Найдите корень уравнения <span class="katex">\log_42^{5x+7} = 3</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_10.jpg">
+<b>Ответ:</b> -0,2.
+</details>
 
 ### Вариант 9
 > Решите уравнение <span class="katex">\tg \frac{\pi (2x+5)}{6} = \sqrt{3}</span>. В ответе запишите наибольший отрицательный корень.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_11.jpg">
+<b>Ответ:</b> -1,5.
+</details>
 
 ### Вариант 10
 > Решите уравнение <span class="katex">\sin\frac{\pi(2x+7)}{6} = -\frac{\sqrt{3}}{2}</span>. В ответе запишите наибольший отрицательный корень.
