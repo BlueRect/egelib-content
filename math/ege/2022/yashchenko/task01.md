@@ -119,15 +119,34 @@
 
 ### Вариант 17
 > Найдите корень уравнения <span class="katex">(\frac{1}{4})^{x-2,5} = \frac{1}{8}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_18.jpg">
+<b>Ответ:</b> 4.
+</details>
 
 ### Вариант 18
 > Найдите корень уравнения <span class="katex">(\frac{1}{5})^{3x+5} = 0,04</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_19.jpg">
+<b>Ответ:</b> -1.
+</details>
 
 ### Вариант 19
 > Найдите корень уравнения <span class="katex">(2x-11)^2 = (2x-1)^2</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_20.jpg">
+<b>Ответ:</b> 3.
+</details>
 
 ### Вариант 20
 > Найдите корень уравнения <span class="katex">(x-11)^4 = (x+3)^4</span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_21.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_22.jpg">
+</gallery>
+<b>Ответ:</b> 4.
+</details>
 
 ### Вариант 21
 > Найдите корень уравнения <span class="katex">0,5^{4-5x} = 64</span>.
