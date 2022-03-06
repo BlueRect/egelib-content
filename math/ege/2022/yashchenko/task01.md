@@ -23,9 +23,20 @@
 
 ### Вариант 4
 > Решите уравнение <span class="katex">\frac{7x}{3x^2-26} = 1</span>. Если уравнение имеет более одного корня, в ответе запишите меньший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_3.jpg">
+<b>Ответ:</b> -2.
+</details>
 
 ### Вариант 5
 > Решите уравнение <span class="katex">\sqrt{9-8x} = -x</span>. Если уравнение имеет более одного корня, в ответе запишите больший из корней.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_4.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_5.jpg">
+</gallery>
+<b>Ответ:</b> -9.
+</details>
 
 ### Вариант 6
 > Решите уравнение <span class="katex">\sqrt{72+x} = -x</span>. Если уравнение имеет более одного корня, в ответе запишите больший из корней.
