@@ -1,13 +1,25 @@
-# Всё задания 1
+# Все задания 1
 
 ### Вариант 1
 > Найдите корень уравнения <span class="katex">4^{5x+2}=0,8~·~5^{5x+2}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_01_01.jpg">
+<b>Ответ:</b> -0,2.
+</details>
 
 ### Вариант 2
 > Найдите корень уравнения <span class="katex">9^{2x+5}=3,24~·~5^{2x+5}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_02_01.jpg">
+<b>Ответ:</b> -1,5.
+</details>
 
 ### Вариант 3
 > Решите уравнение <span class="katex">x=\frac{8x+36}{x+13}</span>. Если уравнение имеет более одного корня, в ответе запишите меньший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_2.jpg">
+<b>Ответ:</b> -9.
+</details>
 
 ### Вариант 4
 > Решите уравнение <span class="katex">\frac{7x}{3x^2-26} = 1</span>. Если уравнение имеет более одного корня, в ответе запишите меньший из корней.
@@ -28,7 +40,7 @@
 > Решите уравнение <span class="katex">\tg \frac{\pi (2x+5)}{6} = \sqrt{3}</span>. В ответе запишите наибольший отрицательный корень.
 
 ### Вариант 10
-> Решите уравнение <span class="katex">\sin\frac{\pi(2x+7)}{6} = -\frac{\sqrt{3}}{2}</span>. В ответе запищите наибольший отрицательный корень.
+> Решите уравнение <span class="katex">\sin\frac{\pi(2x+7)}{6} = -\frac{\sqrt{3}}{2}</span>. В ответе запишите наибольший отрицательный корень.
 
 ### Вариант 11
 > Найдите корень уравнения <span class="katex">\frac{1}{2x-3} = \frac{1}{8}</span>.
