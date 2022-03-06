@@ -40,9 +40,16 @@
 
 ### Вариант 6
 > Решите уравнение <span class="katex">\sqrt{72+x} = -x</span>. Если уравнение имеет более одного корня, в ответе запишите больший из корней.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_6.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_7.jpg">
+</gallery>
+<b>Ответ:</b> -8.
+</details>
 
 ### Вариант 7
-> Найдите корень уравнения <span class="katex">\log_33^{2x+9} = 2</span>.
+> Найдите корень уравнения <span class="katex">\log_93^{2x+9} = 2</span>.
 
 ### Вариант 8
 > Найдите корень уравнения <span class="katex">\log_42^{5x+7} = 3</span>.
