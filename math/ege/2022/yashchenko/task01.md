@@ -199,9 +199,17 @@
 
 ### Вариант 28
 > Найдите корень уравнения <span class="katex">7\frac{7}{9}x = 5\frac{5}{6}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_30.jpg">
+<b>Ответ:</b> 0,75.
+</details>
 
 ### Вариант 29
 > Найдите корень уравнения <span class="katex">\log_2(8-x) = 2\log_2(4+x)</span>. <br> Если уравнение имеет более одного корня, в ответе запишите наименьший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_31.jpg">
+<b>Ответ:</b> -1.
+</details>
 
 ### Вариант 30
 > Найдите корень уравнения <span class="katex">\log_7(x+18) = 2\log_7(2-x)</span>. <br> Если уравнение имеет более одного корня, в ответе запишите наибольший из корней.
