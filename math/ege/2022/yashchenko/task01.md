@@ -242,9 +242,21 @@
 
 ### Вариант 34
 > Найдите корень уравнения <span class="katex">4^{x-7} = \frac{1}{64}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_8.jpg">
+<b>Ответ:</b> 4.
+</details>
 
 ### Вариант 35
 > Найдите корень уравнения <span class="katex">\sqrt{15-2x} = x</span>. <br> Если уравнение имеет более одного корня, в ответе запишите меньший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_9.jpg">
+<b>Ответ:</b> 3.
+</details>
 
 ### Вариант 36
 > Найдите корень уравнения <span class="katex">\sqrt{\frac{6}{4x-54}} = \frac{1}{7}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_10.jpg">
+<b>Ответ:</b> 87.
+</details>
