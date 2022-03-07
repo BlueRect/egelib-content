@@ -9,6 +9,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -\frac{5\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_2.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_3.jpg">
+</gallery>
+</details>
+
 ### Вариант 2
 <blockquote>
 а) Решите уравнение <span class="katex">2\cos^3(x-\pi) = \sin(\frac{3\pi}{2} + x)</span>.
