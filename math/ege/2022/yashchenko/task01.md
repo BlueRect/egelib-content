@@ -68,10 +68,10 @@
 
 ### Вариант 9
 > Решите уравнение <span class="katex">\tg \frac{\pi (2x+5)}{6} = \sqrt{3}</span>. В ответе запишите наибольший отрицательный корень.
-<details><summary>Решение</summary>
+<!--<details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2027_11.jpg">
 <b>Ответ:</b> -1,5.
-</details>
+</details>-->
 
 ### Вариант 10
 > Решите уравнение <span class="katex">\sin\frac{\pi(2x+7)}{6} = -\frac{\sqrt{3}}{2}</span>. В ответе запишите наибольший отрицательный корень.
