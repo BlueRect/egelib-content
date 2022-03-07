@@ -214,15 +214,31 @@
 
 ### Вариант 30
 > Найдите корень уравнения <span class="katex">\log_7(x+18) = 2\log_7(2-x)</span>. <br> Если уравнение имеет более одного корня, в ответе запишите наибольший из корней.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_4.jpg">
+<b>Ответ:</b> -2.
+</details>
 
 ### Вариант 31
 > Найдите корень уравнения <span class="katex">\frac{4}{7}x = -4\frac{5}{7}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_5.jpg">
+<b>Ответ:</b> -8,25.
+</details>
 
 ### Вариант 32
 > Найдите корень уравнения <span class="katex">8^{x-3} = 16^{2x}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_6.jpg">
+<b>Ответ:</b> -1,8.
+</details>
 
 ### Вариант 33
 > Найдите корень уравнения <span class="katex">\sqrt{3x+49} = 10</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_7.jpg">
+<b>Ответ:</b> 17.
+</details>
 
 ### Вариант 34
 > Найдите корень уравнения <span class="katex">4^{x-7} = \frac{1}{64}</span>.
