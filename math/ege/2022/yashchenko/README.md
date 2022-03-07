@@ -13,3 +13,4 @@
 
 
 * <a onclick="loadURL('math//ege//2022//yashchenko//task12')">Все задания 12</a>
+* <a onclick="loadURL('math//ege//2022//yashchenko//task13')">Все задания 13</a>
