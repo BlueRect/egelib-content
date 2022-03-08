@@ -1,4 +1,4 @@
-<span class="space">СБОРНИК ЯЩЕНКО 2022</span>
+<span class="space" onclick="loadURL('math//ege//2022//yashchenko//README')">СБОРНИК ЯЩЕНКО 2022</span>
 # Все задания 2
 
 ### Вариант 1
