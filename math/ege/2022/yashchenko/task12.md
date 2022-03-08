@@ -144,3 +144,31 @@
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-3\pi; \pi]</span>.
 </blockquote>
+
+### Вариант 17
+<blockquote>
+а) Решите уравнение <span class="katex">\sin (2x + \frac{2\pi}{3}) \cos (4x + \frac{\pi}{3}) - \cos 2x = \frac{ \sin^2 x }{ \cos (-\frac{\pi}{3}) }</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-2\pi; \frac{3\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 18
+<blockquote>
+а) Решите уравнение <span class="katex">\cos 2x - \sin 2x = \cos x + \sin x + 1</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{5\pi}{2}; -\pi]</span>.
+</blockquote>
+
+### Вариант 19
+<blockquote>
+а) Решите уравнение <span class="katex">\cos 3x \sin 3x = \cos \frac{\pi}{3} \cos (12x + \frac{3\pi}{2})</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{3\pi}{4}; -\frac{\pi}{4}]</span>.
+</blockquote>
+
+### Вариант 20
+<blockquote>
+а) Решите уравнение <span class="katex">\cos 2x \sin 2x \sin \frac{2\pi}{3} = \frac{1}{4} \cos (8x - \frac{3\pi}{2})</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{8\pi}{3}; \frac{10\pi}{3}]</span>.
+</blockquote>
