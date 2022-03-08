@@ -18,9 +18,17 @@
 
 ### Вариант 3
 > Найдите наименьшее значение функции <span class="katex">y = 42\cos x - 45x + 35</span> на отрезке <span class="katex">[-\frac{3\pi}{2}; 0]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_23.jpg">
+<b>Ответ:</b> 77.
+</details>
 
 ### Вариант 4
 > Найдите наибольшее значение функции <span class="katex">y = 49x - 46\sin x + 37</span> на отрезке <span class="katex">[-\frac{\pi}{2}; 0]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_24.jpg">
+<b>Ответ:</b> 37.
+</details>
 
 ### Вариант 5
 > Найдите наибольшее значение функции <span class="katex">y = x^5 + 5x^3 - 140x</span> на отрезке <span class="katex">[-8; -1]</span>.
