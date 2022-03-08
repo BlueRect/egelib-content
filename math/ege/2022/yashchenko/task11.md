@@ -60,6 +60,10 @@
 
 ### Вариант 9
 > Найдите точку максимума функции <span class="katex">y = (x + 35)e^{35-x}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_29.jpg">
+<b>Ответ:</b> -34.
+</details>
 
 ### Вариант 10
 > Найдите наибольшее значение функции <span class="katex">y = (x+4)^2e^{-4-x}</span> на отрезке <span class="katex">[-5; -3]</span>.
