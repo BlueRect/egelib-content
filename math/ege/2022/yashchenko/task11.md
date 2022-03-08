@@ -4,9 +4,17 @@
 
 ### Вариант 1
 > Найдите наименьшее значение функции <span class="katex">y = \frac{4}{3}x\sqrt{x} - 3x + 9</span> на отрезке <span class="katex">[0,25; 30]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_21.jpg">
+<b>Ответ:</b> 6,75.
+</details>
 
 ### Вариант 2
 > Найдите точку минимума функции <span class="katex">y = \frac{4}{3}x\sqrt{x} - 5x + 4</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_22.jpg">
+<b>Ответ:</b> 6,75.
+</details>
 
 ### Вариант 3
 > Найдите наименьшее значение функции <span class="katex">y = 42\cos x - 45x + 35</span> на отрезке <span class="katex">[-\frac{3\pi}{2}; 0]</span>.
