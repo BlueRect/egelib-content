@@ -60,3 +60,10 @@
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -2\pi]</span>.
 </blockquote>
+
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_15.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_16.jpg">
+</gallery>
+</details>
