@@ -67,3 +67,80 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_16.jpg">
 </gallery>
 </details>
+
+### Вариант 6
+<blockquote>
+а) Решите уравнение <span class="katex">\cos 2x + \sin 2x + 1 = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[3\pi; \frac{9\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 7
+<blockquote>
+а) Решите уравнение <span class="katex">5\sin x - 4\sin^3 x = 2\sin 2x</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -2\pi]</span>.
+</blockquote>
+
+### Вариант 8
+<blockquote>
+а) Решите уравнение <span class="katex">7\cos x - 4\cos^3 x = 2\sqrt{3} \sin 2x</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-4\pi; -3\pi]</span>.
+</blockquote>
+
+### Вариант 9
+<blockquote>
+а) Решите уравнение <span class="katex">16\log^2_9 x + 4\log_{\frac{1}{3}} x - 3 = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0,5; 5]</span>.
+</blockquote>
+
+### Вариант 10
+<blockquote>
+а) Решите уравнение <span class="katex">36\log^2_{\frac{1}{8}} x + 4\log_{\frac{1}{4}} x - 5 = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0,5; 5]</span>.
+</blockquote>
+
+### Вариант 11
+<blockquote>
+а) Решите уравнение <span class="katex">2\sin^2(\frac{\pi}{2} - x) + \sin 2x = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[3\pi; \frac{9\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 12
+<blockquote>
+а) Решите уравнение <span class="katex">\cos 2x - \sqrt{2} \cos (\frac{3\pi}{2} + x) - 1 = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{3\pi}{2}; 3\pi]</span>.
+</blockquote>
+
+### Вариант 13
+<blockquote>
+а) Решите уравнение <span class="katex">(x^2 + 2x + 1)(\log_2(x^2-3) + \log_{0,5}(\sqrt{3} - x)) = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-2,5; -1,5]</span>.
+</blockquote>
+
+### Вариант 14
+<blockquote>
+а) Решите уравнение <span class="katex">(x^2 + 4x + 2)(4^{3x+1} + 8^{2x-1} - 11) = 0</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-0,5; 0,5]</span>.
+</blockquote>
+
+### Вариант 15
+<blockquote>
+а) Решите уравнение <span class="katex">\sin^4 \frac{x}{4} - \cos^4 \frac{x}{4} = \cos (x - \frac{\pi}{2})</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{3\pi}{2}; \pi]</span>.
+</blockquote>
+
+### Вариант 16
+<blockquote>
+а) Решите уравнение <span class="katex">\sin^2 (\frac{x}{4} + \frac{\pi}{4}) \sin^2 (\frac{x}{4} - \frac{\pi}{4}) = 0,375 \sin^2 (-\frac{\pi}{4})</span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-3\pi; \pi]</span>.
+</blockquote>
