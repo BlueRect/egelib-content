@@ -46,9 +46,17 @@
 
 ### Вариант 7
 > Найдите точку максимума функции <span class="katex">y = \ln(x+25)^{11} - 11x + 5</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_27.jpg">
+<b>Ответ:</b> -24.
+</details>
 
 ### Вариант 8
 > Найдите наибольшее значение функции <span class="katex">y = 2x^2 - 12x + 8\ln x - 5</span> на отрезке <span class="katex">[\frac{12}{13}; \frac{14}{13}]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_28.jpg">
+<b>Ответ:</b> -15.
+</details>
 
 ### Вариант 9
 > Найдите точку максимума функции <span class="katex">y = (x + 35)e^{35-x}</span>.
