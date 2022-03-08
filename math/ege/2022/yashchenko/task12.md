@@ -89,6 +89,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -2\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_19.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_20.jpg">
+</gallery>
+</details>
+
 ### Вариант 8
 <blockquote>
 а) Решите уравнение <span class="katex">7\cos x - 4\cos^3 x = 2\sqrt{3} \sin 2x</span>.
