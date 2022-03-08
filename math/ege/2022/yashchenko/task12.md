@@ -75,6 +75,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[3\pi; \frac{9\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_17.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_18.jpg">
+</gallery>
+</details>
+
 ### Вариант 7
 <blockquote>
 а) Решите уравнение <span class="katex">5\sin x - 4\sin^3 x = 2\sin 2x</span>.
