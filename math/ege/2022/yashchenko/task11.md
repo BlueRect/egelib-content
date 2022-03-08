@@ -32,9 +32,17 @@
 
 ### Вариант 5
 > Найдите наибольшее значение функции <span class="katex">y = x^5 + 5x^3 - 140x</span> на отрезке <span class="katex">[-8; -1]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_25.jpg">
+<b>Ответ:</b> 208.
+</details>
 
 ### Вариант 6
 > Найдите точку минимума функции <span class="katex">y = x^3 - 8,5x^2 + 10x - 13</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_26.jpg">
+<b>Ответ:</b> 5.
+</details>
 
 ### Вариант 7
 > Найдите точку максимума функции <span class="katex">y = \ln(x+25)^{11} - 11x + 5</span>.
