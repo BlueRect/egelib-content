@@ -117,6 +117,14 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0,5; 5]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<h3>Видео</he>
+<videogallery>
+<a id="videobox" href="https://youtu.be/uVqJgmaVhPw?t=19m29s" data-title="ЕГЭ 2022 Ященко 10 вариант ФИПИ школе полный разбор!" data-img="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/sddefault.jpg" data-length="1:05:13" data-author="mrMathlesson Виктор Осипов"></a>
+</videogallery>
+
+</details>
+
 ### Вариант 11
 <blockquote>
 а) Решите уравнение <span class="katex">2\sin^2(\frac{\pi}{2} - x) + \sin 2x = 0</span>.
