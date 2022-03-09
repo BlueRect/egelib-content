@@ -130,9 +130,17 @@
 
 ### Вариант 19
 > Найдите наименьшее значение функции <span class="katex">y = x\sqrt{x} - 6x + 11</span> на отрезке <span class="katex">[0; 30]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_39.jpg">
+<b>Ответ:</b> -21.
+</details>
 
 ### Вариант 20
 > Найдите точку минимума функции <span class="katex">y = (x+8)^2~·~e^{-x-3}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_40.jpg">
+<b>Ответ:</b> -8.
+</details>
 
 ### Вариант 21
 > Найдите точку минимума функции <span class="katex">y = x^2 - 28x + 96\ln x - 5</span>.
