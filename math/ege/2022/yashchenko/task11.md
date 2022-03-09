@@ -102,9 +102,17 @@
 
 ### Вариант 15
 > Найдите точку максимума функции <span class="katex">y = -\frac{x^2+196}{x}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_35.jpg">
+<b>Ответ:</b> 14.
+</details>
 
 ### Вариант 16
 > Найдите наибольшее значение функции <span class="katex">y = (x-6)e^{7-x}</span> на отрезке <span class="katex">[2; 15]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_36.jpg">
+<b>Ответ:</b> 1.
+</details>
 
 ### Вариант 17
 > Найдите точку минимума функции <span class="katex">y = 11x - \ln(x+4)^{11} - 3</span>.
