@@ -81,6 +81,10 @@
 
 ### Вариант 12
 > Найдите точку максимума функции <span class="katex">y = (5x - 6)\cos x - 5\sin x - 8</span>, принадлежащую промежутку <span class="katex">(0; \frac{\pi}{2})</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_32.jpg">
+<b>Ответ:</b> 1,2.
+</details>
 
 ### Вариант 13
 > Найдите наибольшее значение функции <span class="katex">y = 3x^5 - 5x^3 + 16</span> на отрезке <span class="katex">[-4; 0]</span>.
