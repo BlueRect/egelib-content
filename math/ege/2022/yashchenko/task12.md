@@ -14,6 +14,12 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_2.jpg">
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_3.jpg">
 </gallery>
+
+<h3>Видео</h3>
+<videogallery>
+<a id="videobox" href="https://youtu.be/yakHDiQ0dKI?t=22m39s" data-title="Решаем новый Профильный ЕГЭ 2022 математика Ященко вариант 1" data-img="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yakHDiQ0dKI-SD.jpg" data-length="1:19:38" data-author="Математик МГУ"></a>
+<a id="videobox" href="https://youtu.be/VDEF3HIUOnw?t=800" data-title="ЕГЭ 2022 Ященко 1 вариант ФИПИ школе полный разбор!" data-img="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/VDEF3HIUOnw-SD.jpg" data-length="58:01" data-author="mrMathlesson Виктор Осипов"></a>
+</videogallery>
 </details>
 
 ### Вариант 2
@@ -124,7 +130,7 @@
 </blockquote>
 
 <details><summary>Решение</summary>
-<h3>Видео</he>
+<h3>Видео</h3>
 <videogallery>
 <a id="videobox" href="https://youtu.be/uVqJgmaVhPw?t=19m29s" data-title="ЕГЭ 2022 Ященко 10 вариант ФИПИ школе полный разбор!" data-img="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/sddefault.jpg" data-length="1:05:13" data-author="mrMathlesson Виктор Осипов"></a>
 </videogallery>
