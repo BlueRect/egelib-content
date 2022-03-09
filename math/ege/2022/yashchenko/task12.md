@@ -124,6 +124,10 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[3\pi; \frac{9\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_43.jpg">
+</details>
+
 ### Вариант 12
 <blockquote>
 а) Решите уравнение <span class="katex">\cos 2x - \sqrt{2} \cos (\frac{3\pi}{2} + x) - 1 = 0</span>.
