@@ -110,6 +110,12 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0,5; 5]</span>.
 </blockquote>
 
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_44.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_45.jpg">
+</gallery>
+</details>
+
 ### Вариант 10
 <blockquote>
 а) Решите уравнение <span class="katex">36\log^2_{\frac{1}{8}} x + 4\log_{\frac{1}{4}} x - 5 = 0</span>.
