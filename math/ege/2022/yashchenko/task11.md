@@ -67,9 +67,17 @@
 
 ### Вариант 10
 > Найдите наибольшее значение функции <span class="katex">y = (x+4)^2e^{-4-x}</span> на отрезке <span class="katex">[-5; -3]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_30.jpg">
+<b>Ответ:</b> 0.
+</details>
 
 ### Вариант 11
 > Найдите наибольшее значение функции <span class="katex">y = 4\sin x - 6x + 7</span> на отрезке <span class="katex">[-\frac{3\pi}{2}; 0]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_31.jpg">
+<b>Ответ:</b> 7.
+</details>
 
 ### Вариант 12
 > Найдите точку максимума функции <span class="katex">y = (5x - 6)\cos x - 5\sin x - 8</span>, принадлежащую промежутку <span class="katex">(0; \frac{\pi}{2})</span>.
