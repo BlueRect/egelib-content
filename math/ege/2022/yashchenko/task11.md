@@ -95,6 +95,10 @@
 
 ### Вариант 14
 > Найдите точку минимума функции <span class="katex">y = (x+4)^2(x+1)+9</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_34.jpg">
+<b>Ответ:</b> -2.
+</details>
 
 ### Вариант 15
 > Найдите точку максимума функции <span class="katex">y = -\frac{x^2+196}{x}</span>.
