@@ -144,6 +144,10 @@
 
 ### Вариант 21
 > Найдите точку минимума функции <span class="katex">y = x^2 - 28x + 96\ln x - 5</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_41.jpg">
+<b>Ответ:</b> 8.
+</details>
 
 ### Вариант 22
 > Найдите точку максимума функции <span class="katex">y = x^3 + 18x^2 + 81x + 23</span>.
