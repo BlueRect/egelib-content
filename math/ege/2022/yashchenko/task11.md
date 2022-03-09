@@ -116,9 +116,17 @@
 
 ### Вариант 17
 > Найдите точку минимума функции <span class="katex">y = 11x - \ln(x+4)^{11} - 3</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_37.jpg">
+<b>Ответ:</b> -3.
+</details>
 
 ### Вариант 18
 > Найдите наибольшее значение функции <span class="katex">y = 7\ln(x+5) - 7x + 10</span> на отрезке <span class="katex">[-4,5; 0]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_38.jpg">
+<b>Ответ:</b> 38.
+</details>
 
 ### Вариант 19
 > Найдите наименьшее значение функции <span class="katex">y = x\sqrt{x} - 6x + 11</span> на отрезке <span class="katex">[0; 30]</span>.
