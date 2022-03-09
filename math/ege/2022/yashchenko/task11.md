@@ -88,6 +88,10 @@
 
 ### Вариант 13
 > Найдите наибольшее значение функции <span class="katex">y = 3x^5 - 5x^3 + 16</span> на отрезке <span class="katex">[-4; 0]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_33.jpg">
+<b>Ответ:</b> 18.
+</details>
 
 ### Вариант 14
 > Найдите точку минимума функции <span class="katex">y = (x+4)^2(x+1)+9</span>.
