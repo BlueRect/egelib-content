@@ -22,6 +22,18 @@
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_04.jpg)
 
 ### Вариант 5
-> На рисунке изображён графики функций <span class="katex">f(x) = ax^2 + bx + c</span> и <span class="katex">g(x) = kx + d</span>, которые пересекаются в точках *А* и *В*. Найдите абсциссу точки *В*.
+> На рисунке изображены графики функций <span class="katex">f(x) = ax^2 + bx + c</span> и <span class="katex">g(x) = kx + d</span>, которые пересекаются в точках *А* и *В*. Найдите абсциссу точки *В*.
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_05.jpg)
+
+### Вариант 6
+> На рисунке изображены графики функций <span class="katex">f(x) = 3x + 3</span> и <span class="katex">g(x) = ax^2 + bx + c</span>, которые пересекаются в точках А(–1; 0) и B(x<sub>0</sub>; y<sub>0</sub>). Найдите y<sub>0</sub>.
+>
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_06.jpg)
+
+
+### Вариант 7
+> На рисунке изображён график функции <span class="katex">f(x) = k\sqrt{x} + p</span>. Найдите значение *x*, при котором <span class="katex">f(x) = -10</span>.
+>
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_07.jpg)
+
