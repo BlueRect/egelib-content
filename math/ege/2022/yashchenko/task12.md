@@ -116,6 +116,7 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0,5; 5]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
 <gallery>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_44.jpg">
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_45.jpg">
