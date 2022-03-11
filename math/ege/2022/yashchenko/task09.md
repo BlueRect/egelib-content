@@ -6,6 +6,19 @@
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_01.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_47.jpg">
+<b>Ответ:</b> 78.
+
+<hr>
+
+*Уравнение параболы:* f(x) = a(x – x<sub>в</sub>)<sup>2</sup> + y<sub>в</sub>.<br>
+f(x) = (x – 4)<sup>2</sup> – 3;<br>
+f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 = 78.
+
+**Ответ:** 78.
+</details>
+
 ### Вариант 2
 > На рисунке изображён график функции <span class="katex">f(x) = ax^2 + bx + c</span>, где *a*, *b* и *c* — целые. Найдите <span class="katex">f(-9)</span>.
 >
