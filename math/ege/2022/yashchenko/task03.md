@@ -141,6 +141,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_11.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_61.jpg">
+<b>Ответ:</b> 78.
+</details>
+
 ### Вариант 15
 > Четырёхугольник *ABCD* вписан в окружность. Угол *ABC* равен 106°, угол *CAD* равен 69°. Найдите угол *ABD*. Ответ дайте в градусах.
 > 
