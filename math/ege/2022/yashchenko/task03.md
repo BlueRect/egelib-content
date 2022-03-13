@@ -156,6 +156,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_13.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_62.jpg">
+<b>Ответ:</b> 53.
+</details>
+
 ### Вариант 17
 > Градусная мера дуги *AB* окружности, не содержащей точки *D*, равна 106°. Градусная мера дуги *DE* окружности, не содержащей точку *A*, равна 48°. Найдите угол *ACB*. Ответ дайте в градусах.
 > 
