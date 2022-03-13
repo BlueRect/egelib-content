@@ -176,6 +176,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_15.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_64.jpg">
+<b>Ответ:</b> 6.
+</details>
+
 ### Вариант 19
 > Найдите площадь прямоугольного треугольника, если его катет и гипотенуза равны соответственно 15 и 17.
 
