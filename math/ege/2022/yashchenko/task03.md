@@ -160,3 +160,18 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_27.jpg)
 
+### Вариант 34
+> Угол *АСО* равен 62°. Его сторона *СА* касается окружности с центром в точке *О*. Отрезок *СО* пересекает окружность в точке *В* (см. рисунок). Найдите градусную меру дуги *АВ* окружности, заключённой внутри этого угла. Ответ дайте в градусах.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_28.jpg)
+
+### Вариант 35
+> В треугольнике *АВС* известно, что *АС = ВС*, *АВ = 20*, <span class="katex">\sin A = \frac{\sqrt{5}}{3}</span>. Найдите длину стороны *АС*.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_29.jpg)
+
+### Вариант 36
+> Основания равнобедренной трапеции равны 24 и 10. Радиус описанной окружности равен 13. Центр окружности лежит внутри трапеции. Найдите высоту трапеции.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_30.jpg)
+
