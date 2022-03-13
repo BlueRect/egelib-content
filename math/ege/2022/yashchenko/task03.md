@@ -39,10 +39,21 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_31.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_51.jpg">
+<b>Ответ:</b> 14.
+</details>
+
+
 ### Вариант 5
 > Биссектриса тупого угла параллелограмма делит противоположную сторону в отношении 3:4, считая от вершины острого угла. Найдите бо́льшую сторону параллелограмма, если его периметр равен 33.
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_03.jpg)
+
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_52.jpg">
+<b>Ответ:</b> 11,55.
+</details>
 
 ### Вариант 6
 > Точка пересечения юиссектрис двух углов параллелограмма, прилежащих к одной стороне, принадлежит противоположной стороне. Меньшая сторона параллелограмма равна 6. Найдите его бо́льшую сторону.
