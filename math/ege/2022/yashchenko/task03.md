@@ -194,6 +194,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_16.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_66.jpg">
+<b>Ответ:</b> 64.
+</details>
+
 ### Вариант 21
 > Периметр прямоугольной трапеции, описанной около окружности, равен 100, её большая боковая сторона равна 37. Найдите радиус окружности.
 > 
