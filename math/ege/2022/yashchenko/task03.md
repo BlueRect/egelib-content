@@ -6,10 +6,6 @@
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_01.jpg)
 
-<details><summary>Решение</summary>
-<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_48.jpg">
-<b>Ответ:</b> 8.
-</details>
 ### Вариант 2
 > В тупоугольном треугольнике *ABC* известно, что *AC = BC*, высота *AH* равна 3, *CH =* <span class="katex">\sqrt{7}</span>. Найдите синус угла *ACB*.
 >
@@ -19,6 +15,12 @@
 > Около трапеции описана окружность. Периметр трапеции равен 38, средняя линия равна 11. Найдите боковую сторону трапеции.
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_02.jpg)
+
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_48.jpg">
+<b>Ответ:</b> 8.
+</details>
+
 
 ### Вариант 4
 > Боковая сторона равнобедренной трапеции равна ее меньшему основанию, угол при основании равен 60°, большее основание равно 28. Найдите радиус описанной окружности этой трапеции.
