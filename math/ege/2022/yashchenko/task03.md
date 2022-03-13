@@ -101,6 +101,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_07.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_57.jpg">
+<b>Ответ:</b> 6.
+</details>
+
 ### Вариант 11
 > В треугольнике *ABC* угол *C* равен 46°, *AD* и *BE* — биссектрисы, пересекающиеся в точке *O*. Найдите угол *AOB*. Ответ дайте в градусах.
 > 
