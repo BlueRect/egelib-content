@@ -121,10 +121,20 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_09.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_59.jpg">
+<b>Ответ:</b> 0,75.
+</details>
+
 ### Вариант 13
 > В четырёхугольник *ABCD* вписана окружность, *AB = 13*, *CD = 18*. Найдите периметр четырёхугольника *ABCD*.
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_10.jpg)
+
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_60.jpg">
+<b>Ответ:</b> 62.
+</details>
 
 ### Вариант 14
 > Через концы *А* и *В* дуги окружности с центром *О* проведены касательные *СА* и *СВ*. Угол *САВ* равен 39°. Найдите угол *АОВ*. Ответ дайте в градусах.
