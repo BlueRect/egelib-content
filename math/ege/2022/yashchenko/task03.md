@@ -217,10 +217,20 @@
 ### Вариант 23
 > Площадь параллелограмма *ABCD* равна 145. Найдите площадь параллелограмма *A'B'C'D'*, вершинами которого являются середины сторон данного параллелограмма.
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_68.jpg">
+<b>Ответ:</b> 72,5.
+</details>
+
 ### Вариант 24
 > Два угла вписанного в окружность четырёхугольника равны 112° и 125°. Найдите больший из оставшихся углов. Ответ дайте в градусах.
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_19.jpg)
+
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_69.jpg">
+<b>Ответ:</b> 68.
+</details>
 
 ### Вариант 25
 > Один из углов прямоугольного треугольника равен 66°. Найдите угол между высотой и биссектрисой, проведёнными из вершины прямого угла. Ответ дайте в градусах.
