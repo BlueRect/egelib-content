@@ -81,6 +81,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_06.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_55.jpg">
+<b>Ответ:</b> 35.
+</details>
+
 ### Вариант 9
 > Сторона ромба равна 10, острый угол равен 30°. Найдите радиус окружности, вписанной в ромб.
 > 
