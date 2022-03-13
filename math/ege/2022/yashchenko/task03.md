@@ -6,6 +6,10 @@
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_01.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_48.jpg">
+<b>Ответ:</b> 8.
+</details>
 ### Вариант 2
 > В тупоугольном треугольнике *ABC* известно, что *AC = BC*, высота *AH* равна 3, *CH =* <span class="katex">\sqrt{7}</span>. Найдите синус угла *ACB*.
 >
