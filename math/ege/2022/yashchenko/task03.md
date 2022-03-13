@@ -209,6 +209,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_18.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_67.jpg">
+<b>Ответ:</b> 30.
+</details>
+
 ### Вариант 23
 > Площадь параллелограмма *ABCD* равна 145. Найдите площадь параллелограмма *A'B'C'D'*, вершинами которого являются середины сторон данного параллелограмма.
 
