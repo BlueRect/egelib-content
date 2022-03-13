@@ -91,6 +91,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_07.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_56.jpg">
+<b>Ответ:</b> 2,5.
+</details>
+
 ### Вариант 10
 > Радиус окружности, вписанной в ромб, равен 1,5. Найдите сторону ромба, если один из его углов равен 30°.
 > 
