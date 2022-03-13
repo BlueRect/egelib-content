@@ -40,3 +40,54 @@
 > Угол между биссектрисой *CD* и медианой *CM*, проведёнными из вершины прямого угла *C* треугольника *ABC*, равен 10°. Найдите меньший угол этого треугольника. Ответ дайте в градусах.
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_06.jpg)
+
+### Вариант 9
+> Сторона ромба равна 10, острый угол равен 30°. Найдите радиус окружности, вписанной в ромб.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_07.jpg)
+
+### Вариант 10
+> Радиус окружности, вписанной в ромб, равен 1,5. Найдите сторону ромба, если один из его углов равен 30°.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_07.jpg)
+
+### Вариант 11
+> В треугольнике *ABC* угол *C* равен 46°, *AD* и *BE* — биссектрисы, пересекающиеся в точке *O*. Найдите угол *AOB*. Ответ дайте в градусах.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_08.jpg)
+
+### Вариант 12
+> В треугольнике *ABC* высота *CH* равна 6, *AB = BC*, *AC = 8*. Найдите синус угла *ACB*.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_09.jpg)
+
+### Вариант 13
+> В четырёхугольник *ABCD* вписана окружность, *AB = 13*, *CD = 18*. Найдите периметр четырёхугольника *ABCD*.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_10.jpg)
+
+### Вариант 14
+> Через концы *А* и *В* дуги окружности с центром *О* проведены касательные *СА* и *СВ*. Угол *САВ* равен 39°. Найдите угол *АОВ*. Ответ дайте в градусах.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_11.jpg)
+
+### Вариант 15
+> Четырёхугольник *ABCD* вписан в окружность. Угол *ABC* равен 106°, угол *CAD* равен 69°. Найдите угол *ABD*. Ответ дайте в градусах.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_12.jpg)
+
+### Вариант 16
+> Четырёхугольник *ABCD* вписан в окружность. Угол *BAD* равен 127°. Найдите угол *BCD*. Ответ дайте в градусах.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_13.jpg)
+
+### Вариант 17
+> Градусная мера дуги *AB* окружности, не содержащей точки *D*, равна 106°. Градусная мера дуги *DE* окружности, не содержащей точку *A*, равна 48°. Найдите угол *ACB*. Ответ дайте в градусах.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_14.jpg)
+
+### Вариант 18
+> Радиус окружности, описанной вокруг треугольника *АВС*, равен <span class="katex">2\sqrt{3}</span>. Найдите *АВ*, если угол *АСВ* равен 120°.
+> 
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_15.jpg)
+
