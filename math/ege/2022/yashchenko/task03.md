@@ -237,6 +237,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_20.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_70.jpg">
+<b>Ответ:</b> 21.
+</details>
+
 ### Вариант 26
 > Острые углы прямоугольного треугольника равны 80° и 10°. Найдите угол между биссектрисой и медианой, проведёнными из вершины прямого угла. Ответ дайте в градусах.
 > 
