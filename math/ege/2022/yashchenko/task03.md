@@ -166,6 +166,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_14.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_63.jpg">
+<b>Ответ:</b> 29.
+</details>
+
 ### Вариант 18
 > Радиус окружности, описанной вокруг треугольника *АВС*, равен <span class="katex">2\sqrt{3}</span>. Найдите *АВ*, если угол *АСВ* равен 120°.
 > 
