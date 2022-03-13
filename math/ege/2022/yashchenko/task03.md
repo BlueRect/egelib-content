@@ -6,10 +6,22 @@
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_01.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_49.jpg">
+<b>Ответ:</b> -0,7.
+</details>
+
+
 ### Вариант 2
 > В тупоугольном треугольнике *ABC* известно, что *AC = BC*, высота *AH* равна 3, *CH =* <span class="katex">\sqrt{7}</span>. Найдите синус угла *ACB*.
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_01.jpg)
+
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_50.jpg">
+<b>Ответ:</b> 0,75.
+</details>
+
 
 ### Вариант 3
 > Около трапеции описана окружность. Периметр трапеции равен 38, средняя линия равна 11. Найдите боковую сторону трапеции.
