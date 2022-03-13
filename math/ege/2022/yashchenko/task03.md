@@ -111,6 +111,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_08.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_58.jpg">
+<b>Ответ:</b> 113.
+</details>
+
 ### Вариант 12
 > В треугольнике *ABC* высота *CH* равна 6, *AB = BC*, *AC = 8*. Найдите синус угла *ACB*.
 > 
