@@ -161,7 +161,6 @@
 
 ### Вариант 24
 > Найдите наименьшее значение функции <span class="katex">y = (1-x)e^{2-x}</span> на отрезке <span class="katex">[0,5; 5]</span>.
-
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_72.jpg">
 <b>Ответ:</b> -1.
@@ -176,10 +175,13 @@
 
 ### Вариант 26
 > Найдите точку минимума функции <span class="katex">y = -\frac{x}{x^2+900}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_74.jpg">
+<b>Ответ:</b> 30.
+</details>
 
 ### Вариант 27
 > Найдите наименьшее значение функции <span class="katex">y = -9-8\sqrt{3}\pi + 24\sqrt{3}x - 48\sqrt{3}\sin x</span> на отрезке <span class="katex">[0; \frac{\pi}{2}]</span>.
-
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_73.jpg">
 <b>Ответ:</b> -81.
