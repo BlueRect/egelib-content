@@ -192,6 +192,10 @@
 
 ### Вариант 29
 > Найдите наименьшее значение функции <span class="katex">y = 2x^2 - 5x + \ln x - 5</span> на отрезке <span class="katex">[\frac{5}{6}; \frac{7}{6}]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_75.jpg">
+<b>Ответ:</b> -8.
+</details>
 
 ### Вариант 30
 > Найдите наименьшее значение функции <span class="katex">y = 4x^2 - 12x + 4\ln x - 10</span> на отрезке <span class="katex">[\frac{12}{13}; \frac{14}{13}]</span>.
