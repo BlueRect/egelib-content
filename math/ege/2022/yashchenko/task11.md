@@ -178,7 +178,7 @@
 > Найдите точку минимума функции <span class="katex">y = -\frac{x}{x^2+900}</span>.
 
 ### Вариант 27
-> Найдите наименьшее значение функции <span class="katex">y = -9-8\sqrt{3}\pi + 24\sqrt{3}x - 48\sqrt{3}</span> на отрезке <span class="katex">[0; \frac{\pi}{2}]</span>.
+> Найдите наименьшее значение функции <span class="katex">y = -9-8\sqrt{3}\pi + 24\sqrt{3}x - 48\sqrt{3}\sin x</span> на отрезке <span class="katex">[0; \frac{\pi}{2}]</span>.
 
 ### Вариант 28
 > Найдите точку минимума функции <span class="katex">y = (3-2x)\cos x + 2\sin x + 4</span>, принадлежащую промежутку <span class="katex">(0; \frac{\pi}{2})</span>.
