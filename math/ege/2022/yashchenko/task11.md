@@ -164,6 +164,10 @@
 
 ### Вариант 25
 > Найдите точку минимума функции <span class="katex">y = \frac{162}{x} + 2x + 7</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_71.jpg">
+<b>Ответ:</b> 9.
+</details>
 
 ### Вариант 26
 > Найдите точку минимума функции <span class="katex">y = -\frac{x}{x^2+900}</span>.
