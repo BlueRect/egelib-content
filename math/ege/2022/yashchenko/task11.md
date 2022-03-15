@@ -180,6 +180,11 @@
 ### Вариант 27
 > Найдите наименьшее значение функции <span class="katex">y = -9-8\sqrt{3}\pi + 24\sqrt{3}x - 48\sqrt{3}\sin x</span> на отрезке <span class="katex">[0; \frac{\pi}{2}]</span>.
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_73.jpg">
+<b>Ответ:</b> -81.
+</details>
+
 ### Вариант 28
 > Найдите точку минимума функции <span class="katex">y = (3-2x)\cos x + 2\sin x + 4</span>, принадлежащую промежутку <span class="katex">(0; \frac{\pi}{2})</span>.
 
