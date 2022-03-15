@@ -162,6 +162,11 @@
 ### Вариант 24
 > Найдите наименьшее значение функции <span class="katex">y = (1-x)e^{2-x}</span> на отрезке <span class="katex">[0,5; 5]</span>.
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_72.jpg">
+<b>Ответ:</b> -1.
+</details>
+
 ### Вариант 25
 > Найдите точку минимума функции <span class="katex">y = \frac{162}{x} + 2x + 7</span>.
 <details><summary>Решение</summary>
