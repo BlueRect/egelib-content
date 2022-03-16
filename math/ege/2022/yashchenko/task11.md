@@ -158,6 +158,10 @@
 
 ### Вариант 23
 > Найдите наибольшее значение функции <span class="katex">y = (x^2 + 22x - 22)e^{2-x}</span> на отрезке <span class="katex">[0; 5]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_78.jpg">
+<b>Ответ:</b> 26.
+</details>
 
 ### Вариант 24
 > Найдите наименьшее значение функции <span class="katex">y = (1-x)e^{2-x}</span> на отрезке <span class="katex">[0,5; 5]</span>.
