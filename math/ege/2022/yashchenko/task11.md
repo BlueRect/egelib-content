@@ -210,6 +210,10 @@
 
 ### Вариант 31
 > Найдите наибольшее значение функции <span class="katex">y = -\frac{4}{3}x\sqrt{x} + 6x + 13</span> на отрезке <span class="katex">[4; 16]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_80.jpg">
+<b>Ответ:</b> 31.
+</details>
 
 ### Вариант 32
 > Найдите наименьшее значение функции <span class="katex">y = 5x - \ln(5x) + 12</span> на отрезке <span class="katex">[\frac{1}{10}; \frac{1}{2}]</span>.
