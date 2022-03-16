@@ -208,6 +208,10 @@
 
 ### Вариант 33
 > Найдите наибольшее значение функции <span class="katex">y = \ln(8x) - 8x + 7</span> на отрезке <span class="katex">[\frac{1}{16}; \frac{5}{16}]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_77.jpg">
+<b>Ответ:</b> 6.
+</details>
 
 ### Вариант 34
 > Найдите наибольшее значение функции <span class="katex">y = \ln(x+9)^5 - 5x</span> на отрезке <span class="katex">[-8,5; 0]</span>.
