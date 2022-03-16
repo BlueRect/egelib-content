@@ -212,6 +212,11 @@
 ### Вариант 34
 > Найдите наибольшее значение функции <span class="katex">y = \ln(x+9)^5 - 5x</span> на отрезке <span class="katex">[-8,5; 0]</span>.
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_76.jpg">
+<b>Ответ:</b> 40.
+</details>
+
 ### Вариант 35
 > Найдите точку максимума функции <span class="katex">y = (x+7)^2~·~e^{-1-x}</span>.
 
