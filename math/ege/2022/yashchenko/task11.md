@@ -203,6 +203,10 @@
 
 ### Вариант 30
 > Найдите наименьшее значение функции <span class="katex">y = 4x^2 - 12x + 4\ln x - 10</span> на отрезке <span class="katex">[\frac{12}{13}; \frac{14}{13}]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_79.jpg">
+<b>Ответ:</b> -18.
+</details>
 
 ### Вариант 31
 > Найдите наибольшее значение функции <span class="katex">y = -\frac{4}{3}x\sqrt{x} + 6x + 13</span> на отрезке <span class="katex">[4; 16]</span>.
