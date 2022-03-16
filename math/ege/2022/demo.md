@@ -36,26 +36,26 @@
 ### Задание 5
 > В первом цилиндрическом сосуде уровень жидкости достигает 16 см. Эту жидкость перелили во второй цилиндрический сосуд, диаметр основания которого в 2 раза больше диаметра основания первого. На какой высоте будет находиться уровень жидкости во втором сосуде? Ответ дайте в сантиметрах.
 > 
-> ![](https://github.com/BlueRect/egelib-content/blob/main/img/mathdemo2022_05_01.png)
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/mathdemo2022_05_01.png)
 
 > Площадь боковой поверхности треугольной призмы равна 24. Через среднюю линию основания призмы проведена плоскость, параллельная боковому ребру. Найдите площадь боковой поверхности отсечённой треугольной призмы.
 > 
-> ![](https://github.com/BlueRect/egelib-content/blob/main/img/mathdemo2022_05_02.png)
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/mathdemo2022_05_02.png)
 
 > Через точку, лежащую на высоте прямого кругового конуса и делящую её в отношении 1:2, считая от вершины конуса, проведена плоскость, параллельная его основанию и делящая конус на две части. Каков объём той части конуса, которая примыкает к его основанию, если объём всего конуса равен 54?
 > 
-> ![](https://github.com/BlueRect/egelib-content/blob/main/img/mathdemo2022_05_03.png)
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/mathdemo2022_05_03.png)
 
 
 ### Задание 6
 > На рисунке изображён график дифференцируемой функции <span class="katex">y = f(x)</span>. На оси абсцисс отмечены девять точек: <span class="katex">x_1, x_2, ... x_9</span>.
 > 
-> ![](https://github.com/BlueRect/egelib-content/blob/main/img/mathdemo2022_06_01.png)
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/mathdemo2022_06_01.png)
 > 
 > Найдите все отмеченные точки, в которых производная функции <span class="katex">f(x)</span> отрицательна. В ответе укажите количество этих точек.
 
 > На рисунке изображён график функции <span class="katex">y = f(x)</span> и касательная к нему в точке с абсциссой <span class="katex">x_0</span>. Найдите значение производной функции <span class="katex">f(x)</span> в точке <span class="katex">x_0</span>.
 > 
-> ![](https://github.com/BlueRect/egelib-content/blob/main/img/mathdemo2022_06_02.png)
+> ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/mathdemo2022_06_02.png)
 
 <span class="katex"></span>
