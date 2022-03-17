@@ -5,8 +5,16 @@
 ### Задание 1
 
 > Найдите корень уравнения <span class="katex">3^{x-5} = 81</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_81.jpg">
+<b>Ответ:</b> 9.
+</details>
 
 > Найдите корень уравнения <span class="katex">\sqrt{3x+49} = 10</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_82.jpg">
+<b>Ответ:</b> 17.
+</details>
 
 > Найдите корень уравнения <span class="katex">\sqrt{2x+3} = x</span>. Если корней окажется несколько, то в ответе запишите наименьший из них.
 
