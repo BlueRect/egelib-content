@@ -76,7 +76,10 @@
 > <div class="katex">\nu = c · \frac{f - f_0}{f + f_0}</div>
 > 
 > где <span class="katex">c</span> = 1500 м/с – скорость звука в воде, <span class="katex">f_0</span> – частота испускаемого сигнала (в МГц), <span class="katex">f</span> – частота отражённого сигнала (в МГц). Найдите частоту отражённого сигнала (в МГц), если батискаф погружается со скоростью 2 м/с.
-
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_83.jpg">
+<b>Ответ:</b> 751.
+</details>
 
 ### Задание 8
 > Весной катер идёт против течения реки в <span class="katex">1\frac{2}{3}</span> раза медленнее, чем по течению. Летом течение становится на <span class="katex">1</span> км/ч медленнее. Поэтому летом катер идёт против течения в <span class="katex">1\frac{1}{2}</span> раза медленнее, чем по течению. Найдите скорость течения весной (в км/ч).
