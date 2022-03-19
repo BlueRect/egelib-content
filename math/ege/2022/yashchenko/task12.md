@@ -2,6 +2,10 @@
 
 # Все задания 12
 
+<details><summary>Табличные значения тригонометрических функций</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/trigonometry_table.jpg">
+</details>
+
 ### Вариант 1
 <blockquote>
 а) Решите уравнение <span class="katex">2\sin^3(\pi+x) = \frac{1}{2}\cos(x-\frac{3\pi}{2})</span>.
