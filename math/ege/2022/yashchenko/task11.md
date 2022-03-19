@@ -193,6 +193,10 @@
 
 ### Вариант 28
 > Найдите точку минимума функции <span class="katex">y = (3-2x)\cos x + 2\sin x + 4</span>, принадлежащую промежутку <span class="katex">(0; \frac{\pi}{2})</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_84.jpg">
+<b>Ответ:</b> 1,5.
+</details>
 
 ### Вариант 29
 > Найдите наименьшее значение функции <span class="katex">y = 2x^2 - 5x + \ln x - 5</span> на отрезке <span class="katex">[\frac{5}{6}; \frac{7}{6}]</span>.
@@ -217,6 +221,10 @@
 
 ### Вариант 32
 > Найдите наименьшее значение функции <span class="katex">y = 5x - \ln(5x) + 12</span> на отрезке <span class="katex">[\frac{1}{10}; \frac{1}{2}]</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_87.jpg">
+<b>Ответ:</b> 13.
+</details>
 
 ### Вариант 33
 > Найдите наибольшее значение функции <span class="katex">y = \ln(8x) - 8x + 7</span> на отрезке <span class="katex">[\frac{1}{16}; \frac{5}{16}]</span>.
@@ -227,7 +235,6 @@
 
 ### Вариант 34
 > Найдите наибольшее значение функции <span class="katex">y = \ln(x+9)^5 - 5x</span> на отрезке <span class="katex">[-8,5; 0]</span>.
-
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_76.jpg">
 <b>Ответ:</b> 40.
@@ -235,7 +242,14 @@
 
 ### Вариант 35
 > Найдите точку максимума функции <span class="katex">y = (x+7)^2~·~e^{-1-x}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_86.jpg">
+<b>Ответ:</b> -5.
+</details>
 
 ### Вариант 36
 > Найдите наименьшее значение функции <span class="katex">y = 6 + \frac{\sqrt{3}\pi}{2} - 3\sqrt{3}x - 6\sqrt{3}\cos x</span> на отрезке <span class="katex">[0; \frac{\pi}{2}]</span>.
-
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_85.jpg">
+<b>Ответ:</b> -3.
+</details>
