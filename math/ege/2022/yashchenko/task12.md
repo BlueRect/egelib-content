@@ -260,3 +260,115 @@
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{8\pi}{3}; \frac{10\pi}{3}]</span>.
 </blockquote>
+
+### Вариант 21
+<blockquote>
+а) Решите уравнение <span class="katex"> \cos 2x - \sqrt{2} (\frac{\pi}{2} + x) + 1 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-5\pi; -\frac{7\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 22
+<blockquote>
+а) Решите уравнение <span class="katex"> 2\sin^2 x - 3\sqrt{3}\sin (\frac{\pi}{2} + x) - 5 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{5\pi}{2}; -\pi]</span>.
+</blockquote>
+
+### Вариант 23
+<blockquote>
+а) Решите уравнение <span class="katex"> \log_{\frac{1}{2}} (3\cos 2x - 2\cos^2 x + 5) = -2 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[5\pi; \frac{13\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 24
+<blockquote>
+а) Решите уравнение <span class="katex"> \log_{\frac{1}{3}} (2\sin^2 x - 3\cos 2x + 6) = -2 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -2\pi]</span>.
+</blockquote>
+
+### Вариант 25
+<blockquote>
+а) Решите уравнение <span class="katex"> 2\cos^4 x + 3\sin^2 x - 2 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -\frac{5\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 26
+<blockquote>
+а) Решите уравнение <span class="katex"> 4\sin^4 x + 7\cos^2 x - 4 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-5\pi; -4\pi]</span>.
+</blockquote>
+
+### Вариант 27
+<blockquote>
+а) Решите уравнение <span class="katex"> 24~·~4^{x-0,5} - 11~·~2^{x+1} + 6 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-1; 1]</span>.
+</blockquote>
+
+### Вариант 28
+<blockquote>
+а) Решите уравнение <span class="katex">4~·~25^{x+0,5} - 60~·~5^{x-1} + 1 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-3; -1]</span>.
+</blockquote>
+
+### Вариант 29
+<blockquote>
+а) Решите уравнение <span class="katex"> 8^{\cos^2 x} = (\sqrt{2})^{5\sin 2x}~·~0,5 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{5\pi}{2}; 4\pi]</span>.
+</blockquote>
+
+### Вариант 30
+<blockquote>
+а) Решите уравнение <span class="katex"> 125^{\sin^2 x} = (\sqrt{5})^{5\sin 2x}~·~0,2 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-3\pi; -2\pi]</span>.
+</blockquote>
+
+### Вариант 31
+<blockquote>
+а) Решите уравнение <span class="katex"> \cos x + 2\cos (2x - \frac{\pi}{3}) = \sqrt{3} \sin 2x - 1 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-5\pi; -\frac{7\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 32
+<blockquote>
+а) Решите уравнение <span class="katex"> \sin x + \sqrt{2} \sin (\frac{\pi}{4} - 2x) = \cos 2x </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[4\pi; \frac{11\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 33
+<blockquote>
+а) Решите уравнение <span class="katex"> ( (0,04)^{\sin x} )^{\cos x} = 5^{-\sqrt{3}\sin x} </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{5\pi}{2}; 4\pi]</span>.
+</blockquote>
+
+### Вариант 34
+<blockquote>
+а) Решите уравнение <span class="katex"> ( (0,25)^{\sin x} )^{\cos x} = 2^{-\sqrt{2}\sin x} </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[2\pi; \frac{7\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 35
+<blockquote>
+а) Решите уравнение <span class="katex"> \frac{4}{\sin^2 (\frac{7\pi}{2} - x)} - \frac{11}{\cos x} + 6 = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[2\pi; \frac{7\pi}{2}]</span>.
+</blockquote>
+
+### Вариант 36
+<blockquote>
+а) Решите уравнение <span class="katex"> \cos 4x - \sin 2x = 0 </span>.
+<br>
+б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0; \pi]</span>.
+</blockquote>
