@@ -113,6 +113,14 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-4\pi; -3\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_92.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_93.jpg">
+</gallery>
+</details>
+
+
 ### Вариант 9
 <blockquote>
 а) Решите уравнение <span class="katex">16\log^2_9 x + 4\log_{\frac{1}{3}} x - 3 = 0</span>.
