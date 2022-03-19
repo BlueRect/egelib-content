@@ -184,10 +184,28 @@
 
 ### Вариант 14
 <blockquote>
-а) Решите уравнение <span class="katex">(x^2 + 4x + 2)(4^{3x+1} + 8^{2x-1} - 11) = 0</span>.
+а) Решите уравнение <span class="katex">(x^2 + 4x - 2)(4^{3x+1} + 8^{2x-1} - 11) = 0</span>.
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-0,5; 0,5]</span>.
 </blockquote>
+
+<details><summary>Решение</summary>
+
+<div class="explain">
+<b>В сборнике Ященко в данной задаче опечатка</b>
+  В сборнике в примере в первой скобке между <i>4x</i> и <i>2</i> находится минус, хотя, чтобы корни совпадали с корнями в ответах, должен быть плюс.
+</div>
+  
+<gallery>
+<!--<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_90.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_91.jpg">-->
+</gallery>
+
+<!--<h3>Видео</h3>
+<videogallery>
+<a id="videobox" href="https://youtu.be/G6wU4Y6wyZk?t=56m05s" data-title="ЕГЭ 2022 Ященко НОВЫЙ 15 вариант Профильная математика ФИПИ разбор" data-img="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/G6wU4Y6wyZk-HQ.jpg" data-length="3:29:40" data-author="Валерия Самохина"></a>
+</videogallery>-->
+</details>
 
 ### Вариант 15
 <blockquote>
