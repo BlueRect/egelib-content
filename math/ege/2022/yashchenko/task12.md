@@ -156,6 +156,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{3\pi}{2}; 3\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_88.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_89.jpg">
+</gallery>
+</details>
+
 ### Вариант 13
 <blockquote>
 а) Решите уравнение <span class="katex">(x^2 + 2x + 1)(\log_2(x^2-3) + \log_{0,5}(\sqrt{3} - x)) = 0</span>.
