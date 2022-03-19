@@ -184,6 +184,18 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{3\pi}{2}; \pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_90.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_91.jpg">
+</gallery>
+
+<h3>Видео</h3>
+<videogallery>
+<a id="videobox" href="https://youtu.be/G6wU4Y6wyZk?t=56m05s" data-title="ЕГЭ 2022 Ященко НОВЫЙ 15 вариант Профильная математика ФИПИ разбор" data-img="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/G6wU4Y6wyZk-HQ.jpg" data-length="3:29:40" data-author="Валерия Самохина"></a>
+</videogallery>
+</details>
+
 ### Вариант 16
 <blockquote>
 а) Решите уравнение <span class="katex">\sin^2 (\frac{x}{4} + \frac{\pi}{4}) \sin^2 (\frac{x}{4} - \frac{\pi}{4}) = 0,375 \sin^2 (-\frac{\pi}{4})</span>.
