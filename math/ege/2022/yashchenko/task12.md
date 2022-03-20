@@ -359,6 +359,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[2\pi; \frac{7\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_96.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_97.jpg">
+</gallery>
+</details>
+
 ### Вариант 35
 <blockquote>
 а) Решите уравнение <span class="katex"> \frac{4}{\sin^2 (\frac{7\pi}{2} - x)} - \frac{11}{\cos x} + 6 = 0 </span>.
