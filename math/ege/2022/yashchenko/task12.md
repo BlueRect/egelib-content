@@ -386,3 +386,10 @@
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[0; \pi]</span>.
 </blockquote>
+
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_100.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_101.jpg">
+</gallery>
+</details>
