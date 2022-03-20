@@ -197,8 +197,8 @@
 </div>
   
 <gallery>
-<!--<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_90.jpg">
-<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_91.jpg">-->
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_94.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_95.jpg">
 </gallery>
 
 <!--<h3>Видео</h3>
