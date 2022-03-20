@@ -345,6 +345,10 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[4\pi; \frac{11\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_102.jpg">
+</details>
+
 ### Вариант 33
 <blockquote>
 а) Решите уравнение <span class="katex"> ( (0,04)^{\sin x} )^{\cos x} = 5^{-\sqrt{3}\sin x} </span>.
