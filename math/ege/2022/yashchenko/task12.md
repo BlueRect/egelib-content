@@ -325,6 +325,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -\frac{5\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_110.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_111.jpg">
+</gallery>
+</details>
+
 ### Вариант 26
 <blockquote>
 а) Решите уравнение <span class="katex"> 4\sin^4 x + 7\cos^2 x - 4 = 0 </span>.
