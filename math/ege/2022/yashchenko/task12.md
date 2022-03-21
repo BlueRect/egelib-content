@@ -64,6 +64,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{\pi}{2}; \pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_103.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_104.jpg">
+</gallery>
+</details>
+
 ### Вариант 5
 <blockquote>
 а) Решите уравнение <span class="katex">\sin 2x + \cos 2x = 1</span>.
