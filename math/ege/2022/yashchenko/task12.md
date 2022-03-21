@@ -293,6 +293,10 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{5\pi}{2}; -\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_107.jpg">
+</details>
+
 ### Вариант 23
 <blockquote>
 а) Решите уравнение <span class="katex"> \log_{\frac{1}{2}} (3\cos 2x - 2\cos^2 x + 5) = -2 </span>.
