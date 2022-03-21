@@ -304,6 +304,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[5\pi; \frac{13\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_108.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_109.jpg">
+</gallery>
+</details>
+
 ### Вариант 24
 <blockquote>
 а) Решите уравнение <span class="katex"> \log_{\frac{1}{3}} (2\sin^2 x - 3\cos 2x + 6) = -2 </span>.
