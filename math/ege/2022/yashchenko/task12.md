@@ -184,10 +184,21 @@
 
 ### Вариант 13
 <blockquote>
-а) Решите уравнение <span class="katex">(x^2 + 2x + 1)(\log_2(x^2-3) + \log_{0,5}(\sqrt{3} - x)) = 0</span>.
+а) Решите уравнение <span class="katex">(x^2 + 2x - 1)(\log_2(x^2-3) + \log_{0,5}(\sqrt{3} - x)) = 0</span>.
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-2,5; -1,5]</span>.
 </blockquote>
+
+<details><summary>Решение</summary>
+<div class="explain">
+<b>В сборнике Ященко в данной задаче опечатка</b>
+  В сборнике в этой задаче в первой скобке между <i>2x</i> и <i>1</i> находится плюс, хотя, чтобы корни совпадали с корнями в ответах, должен быть минус. На этом сайте представлено исправленное условие.
+</div>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_105.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_106.jpg">
+</gallery>
+</details>
 
 ### Вариант 14
 <blockquote>
