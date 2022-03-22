@@ -10,9 +10,15 @@
 
 ### Вариант 2
 > Найдите значение выражения <span class="katex">\frac{4\cos 121\degree}{\cos 59\degree}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_117.jpg">
+</details>
 
 ### Вариант 3
 > Найдите значение выражения <span class="katex">2^{4\sqrt{10}-3}~·~2^{1-3\sqrt{10}} : 2^{\sqrt{10}-1}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_118.jpg">
+</details>
 
 ### Вариант 4
 > Найдите значение выражения <span class="katex">5^{\sqrt{3}-4}~·~5^{1+3\sqrt{3}} : 5^{4\sqrt{3}-1}</span>.
