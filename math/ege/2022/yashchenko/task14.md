@@ -36,6 +36,9 @@
 
 ### Вариант 5
 > Решите неравенство <span class="katex"> 7^{ \log_{\frac{1}{7}} \log_{\frac{1}{2}} (-x) } < 2^{ \log_{\frac{1}{2}} \log_{\frac{1}{7}} (-x) } </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_131.jpg">
+</details>
 
 ### Вариант 6
 > Решите неравенство <span class="katex"> 5^{ \log_{\frac{1}{5}} \log_3 (-2x) } < 3^{ \log_{\frac{1}{4}} \log_5 (-2x) } </span>.
