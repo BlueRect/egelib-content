@@ -28,6 +28,9 @@
 
 ### Вариант 5
 > Найдите значение выражения <span class="katex">\frac{2^{\log_93}}{2^{\log_9243}}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_120.jpg">
+</details>
 
 ### Вариант 6
 > Найдите значение выражения <span class="katex">\frac{2^{\log_62}}{2^{\log_6432}}</span>.
