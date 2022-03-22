@@ -4,6 +4,9 @@
 
 ### Вариант 1
 > Найдите значение выражения <span class="katex">\frac{5\sin 61\degree}{\sin 299\degree}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_116.jpg">
+</details>
 
 ### Вариант 2
 > Найдите значение выражения <span class="katex">\frac{4\cos 121\degree}{\cos 59\degree}</span>.
