@@ -360,6 +360,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{5\pi}{2}; 4\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_114.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_115.jpg">
+</gallery>
+</details>
+
 ### Вариант 30
 <blockquote>
 а) Решите уравнение <span class="katex"> 125^{\sin^2 x} = (\sqrt{5})^{5\sin 2x}~·~0,2 </span>.
