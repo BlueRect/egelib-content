@@ -22,6 +22,9 @@
 
 ### Вариант 4
 > Найдите значение выражения <span class="katex">5^{\sqrt{3}-4}~·~5^{1+3\sqrt{3}} : 5^{4\sqrt{3}-1}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_119.jpg">
+</details>
 
 ### Вариант 5
 > Найдите значение выражения <span class="katex">\frac{2^{\log_93}}{2^{\log_9243}}</span>.
