@@ -6,6 +6,12 @@
 ### Вариант 1
 > Решите неравенство <span class="katex"> (4^x - 5 · 2^x)^2 - 20 (4^x - 5 · 2^x) \le 96 </span>.
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_121.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_122.jpg">
+</gallery>
+</details>
 
 ### Вариант 2
 > Решите неравенство <span class="katex"> (25^x - 4 · 5^x)^2 + 8 · 5^x < 2 · 25^x + 15 </span>.
