@@ -290,6 +290,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_29.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_130.jpg">
+<b>Ответ:</b> 15.
+</details>
+
 ### Вариант 36
 > Основания равнобедренной трапеции равны 24 и 10. Радиус описанной окружности равен 13. Центр окружности лежит внутри трапеции. Найдите высоту трапеции.
 > 
