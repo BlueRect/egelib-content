@@ -374,6 +374,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-5\pi; -\frac{7\pi}{2}]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_112.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_113.jpg">
+</gallery>
+</details>
+
 ### Вариант 32
 <blockquote>
 а) Решите уравнение <span class="katex"> \sin x + \sqrt{2} \sin (\frac{\pi}{4} - 2x) = \cos 2x </span>.
