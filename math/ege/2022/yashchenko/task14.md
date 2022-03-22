@@ -24,6 +24,12 @@
 
 ### Вариант 3
 > Решите неравенство <span class="katex"> 27^{\lg (x-1)} \le (x^2 - 1)^{\lg 3} </span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_125.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_126.jpg">
+</gallery>
+</details>
 
 ### Вариант 4
 > Решите неравенство <span class="katex"> 8^{\lg (-1-x)} \le (x^2 - 1)^{\lg 2} </span>.
