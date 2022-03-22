@@ -126,6 +126,9 @@
 
 ### Вариант 35
 > Решите неравенство <span class="katex"> 9^{x + \frac{1}{9}} - 4 · 3^{x + \frac{10}{9}} + 27 \ge 0 </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_128.jpg">
+</details>
 
 ### Вариант 36
 > Решите неравенство <span class="katex"> 9^x - 10 · 3^{x+1} + 81 \ge 0 </span>.
