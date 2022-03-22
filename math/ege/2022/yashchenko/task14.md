@@ -108,6 +108,9 @@
 
 ### Вариант 29
 > Решите неравенство <span class="katex"> 4^{2x+1,5} - 9^{x+0,5} \ge 2 · 12^x </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_129.jpg">
+</details>
 
 ### Вариант 30
 > Решите неравенство <span class="katex"> \log_{\frac{1}{4}} (5-5x) \le \log_{\frac{1}{4}} (x^2 - 3x + 2) + \log_4 (x+4) </span>.
