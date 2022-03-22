@@ -15,6 +15,12 @@
 
 ### Вариант 2
 > Решите неравенство <span class="katex"> (25^x - 4 · 5^x)^2 + 8 · 5^x < 2 · 25^x + 15 </span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_123.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_124.jpg">
+</gallery>
+</details>
 
 ### Вариант 3
 > Решите неравенство <span class="katex"> 27^{\lg (x-1)} \le (x^2 - 1)^{\lg 3} </span>.
