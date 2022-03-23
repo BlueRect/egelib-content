@@ -265,6 +265,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{5\pi}{2}; -\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_137.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_138.jpg">
+</gallery>
+</details>
+
 ### Вариант 19
 <blockquote>
 а) Решите уравнение <span class="katex">\cos 3x \sin 3x = \cos \frac{\pi}{3} \cos (12x + \frac{3\pi}{2})</span>.
