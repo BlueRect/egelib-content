@@ -75,6 +75,10 @@
 
 ### Вариант 10
 > Решите уравнение <span class="katex">\sin\frac{\pi(2x+7)}{6} = -\frac{\sqrt{3}}{2}</span>. В ответе запишите наибольший отрицательный корень.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_149.jpg">
+<b>Ответ:</b> -4,5.
+</details>
 
 ### Вариант 11
 > Найдите корень уравнения <span class="katex">\frac{1}{2x-3} = \frac{1}{8}</span>.
