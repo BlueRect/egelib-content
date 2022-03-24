@@ -24,6 +24,11 @@ f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 =
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_02.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_150.jpg">
+<b>Ответ:</b> -23.
+</details>
+
 ### Вариант 3
 > На рисунке изображён график функции <span class="katex">f(x) = \frac{k}{x} + a</span>. Найдите <span class="katex">f(-8)</span>.
 >
