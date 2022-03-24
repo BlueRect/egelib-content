@@ -44,6 +44,11 @@ f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 =
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_04.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_152.jpg">
+<b>Ответ:</b> 0,4.
+</details>
+
 ### Вариант 5
 > На рисунке изображены графики функций <span class="katex">f(x) = ax^2 + bx + c</span> и <span class="katex">g(x) = kx + d</span>, которые пересекаются в точках *А* и *В*. Найдите абсциссу точки *В*.
 >
