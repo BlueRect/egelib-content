@@ -18,3 +18,9 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_171.jpg">
 <b>Ответ:</b> 80.
 </details>
+
+### Вариант 8
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_172.jpg">
+<b>Ответ:</b> 10.
+</details>
