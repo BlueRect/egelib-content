@@ -30,3 +30,9 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_173.jpg">
 <b>Ответ:</b> 7,28.
 </details>
+
+### Вариант 10
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_174.jpg">
+<b>Ответ:</b> 7,68.
+</details>
