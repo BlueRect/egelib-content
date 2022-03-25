@@ -91,4 +91,10 @@
 <b>Ответ:</b> 47.
 </details>
 
+### Вариант 24
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_184.jpg">
+<b>Ответ:</b> 76.
+</details>
+
 
