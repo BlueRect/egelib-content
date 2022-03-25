@@ -55,7 +55,7 @@
 ### Вариант 11
 > Найдите значение выражения <span class="katex">4^{1-2\log_{0,5}3}</span>.
 <details><summary>Решение</summary>
-<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_116.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_153.jpg">
 <b>Ответ:</b> 324.
 </details>
 
