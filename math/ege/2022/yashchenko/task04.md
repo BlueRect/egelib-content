@@ -6,30 +6,35 @@
 > Найдите значение выражения <span class="katex">\frac{5\sin 61\degree}{\sin 299\degree}</span>.
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_116.jpg">
+<b>Ответ:</b> -5.
 </details>
 
 ### Вариант 2
 > Найдите значение выражения <span class="katex">\frac{4\cos 121\degree}{\cos 59\degree}</span>.
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_117.jpg">
+<b>Ответ:</b> -4.
 </details>
 
 ### Вариант 3
 > Найдите значение выражения <span class="katex">2^{4\sqrt{10}-3}~·~2^{1-3\sqrt{10}} : 2^{\sqrt{10}-1}</span>.
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_118.jpg">
+<b>Ответ:</b> 0,5.
 </details>
 
 ### Вариант 4
 > Найдите значение выражения <span class="katex">5^{\sqrt{3}-4}~·~5^{1+3\sqrt{3}} : 5^{4\sqrt{3}-1}</span>.
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_119.jpg">
+<b>Ответ:</b> 0,04.
 </details>
 
 ### Вариант 5
 > Найдите значение выражения <span class="katex">\frac{2^{\log_93}}{2^{\log_9243}}</span>.
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_120.jpg">
+<b>Ответ:</b> 0,25.
 </details>
 
 ### Вариант 6
@@ -49,6 +54,10 @@
 
 ### Вариант 11
 > Найдите значение выражения <span class="katex">4^{1-2\log_{0,5}3}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_116.jpg">
+<b>Ответ:</b> 324.
+</details>
 
 ### Вариант 12
 > Найдите значение выражения <span class="katex">\frac{\log_9 32}{\log_{27} 0,5}</span>.
