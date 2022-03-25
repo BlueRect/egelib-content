@@ -43,3 +43,9 @@
 <b>Ответ:</b> 60.
 </details>
 
+### Вариант 12
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_176.jpg">
+<b>Ответ:</b> 45.
+</details>
+
