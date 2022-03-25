@@ -51,6 +51,10 @@
 
 ### Вариант 10
 > Найдите <span class="katex">5( 4p(x+2) - p(4x) )</span>, если <span class="katex">p(x) = x-2</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_154.jpg">
+<b>Ответ:</b> 10.
+</details>
 
 ### Вариант 11
 > Найдите значение выражения <span class="katex">4^{1-2\log_{0,5}3}</span>.
