@@ -6,3 +6,9 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_169.jpg">
 <b>Ответ:</b> 432.
 </details>
+
+### Вариант 6
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_170.jpg">
+<b>Ответ:</b> 192.
+</details>
