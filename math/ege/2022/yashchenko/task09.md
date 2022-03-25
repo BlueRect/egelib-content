@@ -86,6 +86,12 @@ f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 =
 <b>Ответ:</b> 2.
 </details>
 
+### Вариант 10
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_159.jpg">
+<b>Ответ:</b> 27.
+</details>
+
 ### Вариант 17
 
 <details><summary>Решение</summary>
