@@ -43,8 +43,14 @@
 <b>Ответ:</b> 6250.
 </details>
 
-### Вариант 3
+### Вариант 12
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_201.jpg">
 <b>Ответ:</b> 1,3.
+</details>
+
+### Вариант 15
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_202.jpg">
+<b>Ответ:</b> 6.
 </details>
