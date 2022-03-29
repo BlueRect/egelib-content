@@ -7,6 +7,12 @@
 <b>Ответ:</b> 72.
 </details>
 
+### Вариант 2
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_210.jpg">
+<b>Ответ:</b> 24.
+</details>
+
 ### Вариант 5
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_169.jpg">
