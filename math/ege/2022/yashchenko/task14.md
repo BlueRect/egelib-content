@@ -42,6 +42,9 @@
 
 ### Вариант 6
 > Решите неравенство <span class="katex"> 5^{ \log_{\frac{1}{5}} \log_3 (-2x) } < 3^{ \log_{\frac{1}{3}} \log_5 (-2x) } </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_208.jpg">
+</details>
 
 ### Вариант 7
 > Решите неравенство <span class="katex"> \log^2_2 (x^4) - 4\log_{0,25}(x^2) \ge 12 </span>.
