@@ -6,3 +6,9 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_222.jpg">
 <b>Ответ:</b> -1.
 </details>
+
+### Вариант 2
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_223.jpg">
+<b>Ответ:</b> 4.
+</details>
