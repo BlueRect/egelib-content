@@ -103,6 +103,12 @@
 <b>Ответ:</b> 315.
 </details>
 
+### Вариант 18
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_216.jpg">
+<b>Ответ:</b> 176.
+</details>
+
 ### Вариант 19
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_181.jpg">
