@@ -55,6 +55,13 @@
 ### Вариант 9
 > Решите неравенство <span class="katex"> 25 · 4^{ \frac{1}{2} - \frac{2}{x} } - 133 · 10^{-\frac{2}{x}} + 4 · 5^{1 - \frac{4}{x}} \le 0 </span>.
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_211.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_212.jpg">
+</gallery>
+</details>
+
 ### Вариант 10
 > Решите неравенство <span class="katex"> 4 · 9^{1 - \frac{5}{x}} - 91 · 12^{-\frac{5}{x}} + 3 · 4^{2 - \frac{10}{x}} \ge 0 </span>.
 
