@@ -78,3 +78,9 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_206.jpg">
 <b>Ответ:</b> 6,5.
 </details>
+
+### Вариант 20
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_228.jpg">
+<b>Ответ:</b> 9,6.
+</details>
