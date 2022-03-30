@@ -346,6 +346,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-5\pi; -4\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_231.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_232.jpg">
+</gallery>
+</details>
+
 ### Вариант 27
 <blockquote>
 а) Решите уравнение <span class="katex"> 24~·~4^{x-0,5} - 11~·~2^{x+1} + 6 = 0 </span>.
