@@ -38,7 +38,7 @@
 > б) Найдите угол между прямыми *l* и *СВ<sub>1</sub>*.
 
 ### Вариант 17
-<details><summary>Решение</summary>
+<details><summary>Решение (координатно-векторный метод)</summary>
 <gallery>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_233.jpg">
 <!--<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_12.jpg">-->
