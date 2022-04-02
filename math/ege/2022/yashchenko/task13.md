@@ -36,3 +36,12 @@
 > а) Докажите, что прямая *l* пересекает отрезок *АС* и делит его в отношении 3:1.
 >
 > б) Найдите угол между прямыми *l* и *СВ<sub>1</sub>*.
+
+### Вариант 17
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_233.jpg">
+<!--<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_12.jpg">-->
+</gallery>
+</details>
+
