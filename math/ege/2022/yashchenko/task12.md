@@ -329,6 +329,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-\frac{7\pi}{2}; -2\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_237.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_238.jpg">
+</gallery>
+</details>
+
 ### Вариант 25
 <blockquote>
 а) Решите уравнение <span class="katex"> 2\cos^4 x + 3\sin^2 x - 2 = 0 </span>.
