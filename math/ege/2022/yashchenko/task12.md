@@ -288,10 +288,14 @@
 
 ### Вариант 21
 <blockquote>
-а) Решите уравнение <span class="katex"> \cos 2x - \sqrt{2} (\frac{\pi}{2} + x) + 1 = 0 </span>.
+а) Решите уравнение <span class="katex"> \cos 2x - \sqrt{2} \cos (\frac{\pi}{2} + x) + 1 = 0 </span>.
 <br>
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-5\pi; -\frac{7\pi}{2}]</span>.
 </blockquote>
+
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_236.jpg">
+</details>
 
 ### Вариант 22
 <blockquote>
