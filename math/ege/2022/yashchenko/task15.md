@@ -72,3 +72,10 @@
 > — с февраля по июнь необходимо выплатить часть долга;<br>
 > — в июле каждого года долг должен быть полностью погашен.<br><br>
 > Найдите общую сумму выплат после полного погашения кредита.
+
+
+### Вариант 23
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_239.jpg">
+<b>Ответ:</b> 2,58.
+</details>
