@@ -71,6 +71,10 @@
 
 ### Вариант 14
 > Найдите значение выражения <span class="katex">\frac{14^{6,4}~·~7^{-5,4}}{4^{2,2}}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_247.jpg">
+<b>Ответ:</b> 28.
+</details>
 
 ### Вариант 15
 > Найдите значение выражения <span class="katex">\cos\alpha</span>, если <span class="katex">\tg\alpha = -\frac{\sqrt{21}}{2}</span> и <span class="katex">\alpha\in (\frac{3\pi}{2}; 2\pi)</span>.
