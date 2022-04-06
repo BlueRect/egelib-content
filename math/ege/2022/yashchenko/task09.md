@@ -59,6 +59,11 @@ f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 =
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_06.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_241.jpg">
+<b>Ответ:</b> -15.
+</details>
+
 ### Вариант 7
 > На рисунке изображён график функции <span class="katex">f(x) = k\sqrt{x} + p</span>. Найдите значение *x*, при котором <span class="katex">f(x) = -10</span>.
 >
