@@ -30,3 +30,9 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_226.jpg">
 <b>Ответ:</b> 2.
 </details>
+
+### Вариант 14
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_246.jpg">
+<b>Ответ:</b> 6.
+</details>
