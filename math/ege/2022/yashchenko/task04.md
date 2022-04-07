@@ -87,3 +87,7 @@
 
 ### Вариант 18
 > Найдите значение выражения <span class="katex">2\sqrt{6} \cos\frac{\pi}{4} \sin\frac{7\pi}{6} \tg (-\frac{2\pi}{3})</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_248.jpg">
+<b>Ответ:</b> -3.
+</details>
