@@ -53,6 +53,10 @@
 
 ### Вариант 8
 > Найдите значение выражения <span class="katex">\frac{a^{3,33}}{a^{2,11}~·~2^{2,22}}</span> при <span class="katex">a=\frac{2}{7}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_252.jpg">
+<b>Ответ:</b> 3,5.
+</details>
 
 ### Вариант 9
 > Найдите <span class="katex">\frac{g(10-x)}{g(10+x)}</span>, если <span class="katex">g(x) = \sqrt[3]{x(20-x)}</span>, при <span class="katex">|x|\ne 10</span>.
