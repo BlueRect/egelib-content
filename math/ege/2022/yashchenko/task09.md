@@ -54,6 +54,11 @@ f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 =
 >
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_09_05.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_254.jpg">
+<b>Ответ:</b> 2,5.
+</details>
+
 ### Вариант 6
 > На рисунке изображены графики функций <span class="katex">f(x) = 3x + 3</span> и <span class="katex">g(x) = ax^2 + bx + c</span>, которые пересекаются в точках А(–1; 0) и B(x<sub>0</sub>; y<sub>0</sub>). Найдите y<sub>0</sub>.
 >
