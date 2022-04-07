@@ -46,6 +46,10 @@
 
 ### Вариант 7
 > Найдите значение выражения <span class="katex">\frac{a^{5,96}~·~a^{2,4}}{a^{5,36}}</span> при <span class="katex">a=6</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_251.jpg">
+<b>Ответ:</b> 216.
+</details>
 
 ### Вариант 8
 > Найдите значение выражения <span class="katex">\frac{a^{3,33}}{a^{2,11}~·~2^{2,22}}</span> при <span class="katex">a=\frac{2}{7}</span>.
