@@ -10,3 +10,6 @@
 ### Сборники
 * <a onclick="loadURL('math//ege//2022//yashchenko//README')">Сборник Ященко. 36 вариантов</a>
 * <a onclick="loadURL('math//ege//2022//demo')">Демо-версия 2022</a>
+
+### Другое
+* <a onclick="loadURL('math//ege//2022//mirea/README')">МИРЭA</a>
