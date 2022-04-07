@@ -39,6 +39,10 @@
 
 ### Вариант 6
 > Найдите значение выражения <span class="katex">\frac{2^{\log_62}}{2^{\log_6432}}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_250.jpg">
+<b>Ответ:</b> 0,125.
+</details>
 
 ### Вариант 7
 > Найдите значение выражения <span class="katex">\frac{a^{5,96}~·~a^{2,4}}{a^{5,36}}</span> при <span class="katex">a=6</span>.
