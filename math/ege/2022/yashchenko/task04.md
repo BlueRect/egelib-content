@@ -88,6 +88,10 @@
 
 ### Вариант 13
 > Найдите значение выражения <span class="katex">\frac{8^{2,8}~·~5^{3,2}}{20^{2,2}}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_263.jpg">
+<b>Ответ:</b> 80.
+</details>
 
 ### Вариант 14
 > Найдите значение выражения <span class="katex">\frac{14^{6,4}~·~7^{-5,4}}{4^{2,2}}</span>.
