@@ -109,6 +109,10 @@
 
 ### Вариант 16
 > Найдите значение выражения <span class="katex">\cos\alpha</span>, если <span class="katex">\tg\alpha = -\frac{\sqrt{91}}{3}</span> и <span class="katex">\alpha\in (\pi; \frac{3\pi}{2})</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_264.jpg">
+<b>Ответ:</b> -0,3.
+</details>
 
 ### Вариант 17
 > Найдите значение выражения <span class="katex">4\cos 4\alpha</span>, если <span class="katex">\sin 2\alpha = -0,4</span>.
