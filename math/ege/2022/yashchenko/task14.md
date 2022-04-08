@@ -127,6 +127,9 @@
 
 ### Вариант 30
 > Решите неравенство <span class="katex"> \log_{\frac{1}{4}} (5-5x) \le \log_{\frac{1}{4}} (x^2 - 3x + 2) + \log_4 (x+4) </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_298.jpg">
+</details>
 
 ### Вариант 31
 > Решите неравенство <span class="katex"> 4\log^2_4 (\sin^3 x) + 8\log_2(\sin x) \ge 1 </span>.
