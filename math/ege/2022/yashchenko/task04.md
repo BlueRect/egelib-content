@@ -60,6 +60,10 @@
 
 ### Вариант 9
 > Найдите <span class="katex">\frac{g(10-x)}{g(10+x)}</span>, если <span class="katex">g(x) = \sqrt[3]{x(20-x)}</span>, при <span class="katex">|x|\ne 10</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_261.jpg">
+<b>Ответ:</b> 1.
+</details>
 
 ### Вариант 10
 > Найдите <span class="katex">5( 4p(x+2) - p(4x) )</span>, если <span class="katex">p(x) = x-2</span>.
