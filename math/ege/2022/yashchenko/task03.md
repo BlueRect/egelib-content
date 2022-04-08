@@ -269,6 +269,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_24.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_286.jpg">
+<b>Ответ:</b> 10.
+</details>
+
 ### Вариант 31
 > Четырёхугольник *ABCD* вписан в окружность. Угол *АВС* равен 122°, угол *ABD* равен 36°. Найдит угол *CAD*. Ответ дайте в градусах.
 > 
