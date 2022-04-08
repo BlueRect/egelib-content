@@ -81,6 +81,10 @@
 
 ### Вариант 12
 > Найдите значение выражения <span class="katex">\frac{\log_9 32}{\log_{27} 0,5}</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_262.jpg">
+<b>Ответ:</b> -7,5.
+</details>
 
 ### Вариант 13
 > Найдите значение выражения <span class="katex">\frac{8^{2,8}~·~5^{3,2}}{20^{2,2}}</span>.
