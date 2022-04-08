@@ -116,6 +116,10 @@
 
 ### Вариант 17
 > Найдите значение выражения <span class="katex">4\cos 4\alpha</span>, если <span class="katex">\sin 2\alpha = -0,4</span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_265.jpg">
+<b>Ответ:</b> 2,72.
+</details>
 
 ### Вариант 18
 > Найдите значение выражения <span class="katex">2\sqrt{6} \cos\frac{\pi}{4} \sin\frac{7\pi}{6} \tg (-\frac{2\pi}{3})</span>.
