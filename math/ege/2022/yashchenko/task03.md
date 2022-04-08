@@ -275,6 +275,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_26.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_284.jpg">
+<b>Ответ:</b> 103.
+</details>
+
 ### Вариант 33
 > Найдите угол *АСО*, если его сторона *СА* касается окружности с центром *О*, отрезок *СО* пересекает окружность в точке *В* (см. рисунок), а дуга *АВ* окружности, заключённая внутри этого угла, равна 17°. Ответ дайте в градусах.
 > 
