@@ -252,6 +252,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_22.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_287.jpg">
+<b>Ответ:</b> 13.
+</details>
+
 ### Вариант 28
 > Прямая, проведённая параллельно боковой стороне трапеции через конец меньшего основания, равного 41, отсекает треугольник, периметр которого равен 83. Найдите периметр трапеции.
 > 
