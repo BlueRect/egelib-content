@@ -103,6 +103,9 @@
 
 ### Вариант 23
 > Решите неравенство <span class="katex"> 25^{2x^2 - 0,5} - 0,6 · 4^{2x^2 + 0,5} \le 10^{2x^2} </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_299.jpg">
+</details>
 
 ### Вариант 24
 > Решите неравенство <span class="katex"> 3 · 25^{x+0,5} + 4^{2x+1,5} \le 22 · 20^x </span>.
