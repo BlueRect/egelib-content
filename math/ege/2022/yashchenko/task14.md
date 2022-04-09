@@ -109,6 +109,9 @@
 
 ### Вариант 24
 > Решите неравенство <span class="katex"> 3 · 25^{x+0,5} + 4^{2x+1,5} \le 22 · 20^x </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_300.jpg">
+</details>
 
 ### Вариант 25
 > Решите неравенство <span class="katex"> \log^2_{0,2} (x-3)^8 + 8\log_5 (x-3)^4 \le 32 </span>.
