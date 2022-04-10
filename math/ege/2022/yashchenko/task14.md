@@ -51,6 +51,12 @@
 
 ### Вариант 7
 > Решите неравенство <span class="katex"> \log^2_2 (x^4) - 4\log_{0,25}(x^2) \ge 12 </span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_302.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_303.jpg">
+</gallery>
+</details>
 
 ### Вариант 8
 > Решите неравенство <span class="katex"> \log^2_5 (x^4) - 28\log_{0,04} (x^2) \le 28 </span>.
