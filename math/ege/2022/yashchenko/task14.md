@@ -33,6 +33,9 @@
 
 ### Вариант 4
 > Решите неравенство <span class="katex"> 8^{\lg (-1-x)} \le (x^2 - 1)^{\lg 2} </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_301.jpg">
+</details>
 
 ### Вариант 5
 > Решите неравенство <span class="katex"> 7^{ \log_{\frac{1}{7}} \log_{\frac{1}{2}} (-x) } < 2^{ \log_{\frac{1}{2}} \log_{\frac{1}{7}} (-x) } </span>.
