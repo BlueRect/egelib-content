@@ -209,6 +209,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_17.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_312.jpg">
+<b>Ответ:</b> 6,5.
+</details>
+
 ### Вариант 22
 > В четырёхугольник *ABCD* вписана окружность, *AB = 8*, *BC = 5* и *CD = 27*. Найдите четвёртую сторону четырёхугольника.
 > 
