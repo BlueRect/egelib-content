@@ -51,3 +51,12 @@
 <!--<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_12.jpg">-->
 </gallery>
 </details>
+
+### Вариант 33
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_313.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_314.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_315.jpg">
+</gallery>
+</details>
