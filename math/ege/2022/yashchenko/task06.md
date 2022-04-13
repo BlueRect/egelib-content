@@ -31,6 +31,18 @@
 <b>Ответ:</b> 2.
 </details>
 
+### Вариант 6
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_06_06.jpg">
+<b>Ответ:</b> 4.
+</details>
+
+### Вариант 9
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_316.jpg">
+<b>Ответ:</b> 0,2.
+</details>
+
 ### Вариант 14
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_246.jpg">
