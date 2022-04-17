@@ -309,6 +309,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_27.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_322.jpg">
+<b>Ответ:</b> 73.
+</details>
+
 ### Вариант 34
 > Угол *АСО* равен 62°. Его сторона *СА* касается окружности с центром в точке *О*. Отрезок *СО* пересекает окружность в точке *В* (см. рисунок). Найдите градусную меру дуги *АВ* окружности, заключённой внутри этого угла. Ответ дайте в градусах.
 > 
