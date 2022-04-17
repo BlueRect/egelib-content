@@ -314,6 +314,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_28.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_319.jpg">
+<b>Ответ:</b> 28.
+</details>
+
 ### Вариант 35
 > В треугольнике *АВС* известно, что *АС = ВС*, *АВ = 20*, <span class="katex">\sin A = \frac{\sqrt{5}}{3}</span>. Найдите длину стороны *АС*.
 > 
