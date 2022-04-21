@@ -399,6 +399,13 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-3\pi; -2\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_332.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_333.jpg">
+</gallery>
+</details>
+
 ### Вариант 31
 <blockquote>
 а) Решите уравнение <span class="katex"> \cos x + 2\cos (2x - \frac{\pi}{3}) = \sqrt{3} \sin 2x - 1 </span>.
