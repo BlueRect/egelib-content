@@ -151,6 +151,9 @@
 
 ### Вариант 32
 > Решите неравенство <span class="katex"> 20\log^2_4 (\cos x) + 4\log_2 (\cos x) \le 1 </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_326.jpg">
+</details>
 
 ### Вариант 33
 > Решите неравенство <span class="katex"> \log_2 (x^2-2) - \log_2 x \le \log_2 (x - \frac{2}{x^2}) </span>.
