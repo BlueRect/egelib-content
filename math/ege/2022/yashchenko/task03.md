@@ -294,6 +294,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_25.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_330.jpg">
+<b>Ответ:</b> 86.
+</details>
+
 ### Вариант 32
 > Два угла треугольника равны 68° и 35°. Найдите тупой угол, который образуют высоты треугольника, выходящие из вершин этих углов. Ответ дайте в градусах.
 > 
