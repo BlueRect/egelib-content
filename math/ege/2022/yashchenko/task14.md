@@ -148,6 +148,9 @@
 
 ### Вариант 31
 > Решите неравенство <span class="katex"> 4\log^2_4 (\sin^3 x) + 8\log_2(\sin x) \ge 1 </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_328.jpg">
+</details>
 
 ### Вариант 32
 > Решите неравенство <span class="katex"> 20\log^2_4 (\cos x) + 4\log_2 (\cos x) \le 1 </span>.
