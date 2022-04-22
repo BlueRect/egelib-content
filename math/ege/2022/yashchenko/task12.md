@@ -371,6 +371,10 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-1; 1]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_339.jpg">
+</details>
+
 ### Вариант 28
 <blockquote>
 а) Решите уравнение <span class="katex">4~·~25^{x+0,5} - 60~·~5^{x-1} + 1 = 0 </span>.
