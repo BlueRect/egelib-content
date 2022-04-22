@@ -99,8 +99,8 @@
 
 ### Вариант 25
 <details><summary>Решение</summary>
-<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_230.jpg">
-<b>Ответ:</b> 20.
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_341.jpg">
+<b>Ответ:</b> 0,32.
 </details>
 
 ### Вариант 28
