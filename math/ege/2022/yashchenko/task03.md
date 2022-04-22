@@ -257,6 +257,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_21.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_342.jpg">
+<b>Ответ:</b> 35.
+</details>
+
 ### Вариант 27
 > Основания отрезков равны 15 и 26. Найдите больший из отрезков, на которые делят среднюю линию этой трапеции одна из ее диагоналей.
 > 
