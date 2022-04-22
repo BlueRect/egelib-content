@@ -382,6 +382,10 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[-3; -1]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_340.jpg">
+</details>
+
 ### Вариант 29
 <blockquote>
 а) Решите уравнение <span class="katex"> 8^{\cos^2 x} = (\sqrt{2})^{5\sin 2x}~·~0,5 </span>.
