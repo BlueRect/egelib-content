@@ -103,6 +103,12 @@
 <b>Ответ:</b> 0,32.
 </details>
 
+### Вариант 27
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_352.jpg">
+<b>Ответ:</b> 0,32.
+</details>
+
 ### Вариант 28
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_338.jpg">
