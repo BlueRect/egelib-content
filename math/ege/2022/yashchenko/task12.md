@@ -446,6 +446,10 @@
 б) Найдите корни этого уравнения, принадлежащие отрезку <span class="katex">[\frac{5\pi}{2}; 4\pi]</span>.
 </blockquote>
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_345.jpg">
+</details>
+
 ### Вариант 34
 <blockquote>
 а) Решите уравнение <span class="katex"> ( (0,25)^{\sin x} )^{\cos x} = 2^{-\sqrt{2}\sin x} </span>.
