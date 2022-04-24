@@ -109,6 +109,9 @@
 
 ### Вариант 22
 > Решите неравенство <span class="katex"> \log_2 (18-9x) - \log_2(x+2) > \log_2 (x^2 - 6x + 8) </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_366.jpg">
+</details>
 
 ### Вариант 23
 > Решите неравенство <span class="katex"> 25^{2x^2 - 0,5} - 0,6 · 4^{2x^2 + 0,5} \le 10^{2x^2} </span>.
