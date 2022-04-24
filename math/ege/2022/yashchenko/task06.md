@@ -62,6 +62,13 @@
 <b>Ответ:</b> 2.
 </details>
 
+### Вариант 22
+<details><summary>Решение</summary>
+На промежутке [-2; 3] при x = 3 производная ровна нулю, это точка минимума.
+
+<b>Ответ:</b> 3.
+</details>
+
 ### Вариант 25
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_304.jpg">
