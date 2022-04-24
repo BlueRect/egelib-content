@@ -277,6 +277,11 @@
 > 
 > ![](https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_03_23.jpg)
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_351.jpg">
+<b>Ответ:</b> 165.
+</details>
+
 ### Вариант 29
 > В треугольнике со сторонами 8 и 4 проведены высоты к этим сторонам. Высота, проведённая к первой из этих сторон, равна 1. Чему равна высота, проведённая ко второй стороне?
 <details><summary>Решение</summary>
