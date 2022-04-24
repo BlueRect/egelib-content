@@ -168,6 +168,10 @@
 ### Вариант 34
 > Решите неравенство <span class="katex"> \log_5 (2 - \frac{2}{x}) - \log_5 (x+3) \ge \log_5 (\frac{x+3}{x^2}) </span>.
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_347.jpg">
+</details>
+
 ### Вариант 35
 > Решите неравенство <span class="katex"> 9^{x + \frac{1}{9}} - 4 · 3^{x + \frac{10}{9}} + 27 \ge 0 </span>.
 <details><summary>Решение</summary>
