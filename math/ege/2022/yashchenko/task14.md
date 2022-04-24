@@ -161,6 +161,10 @@
 ### Вариант 33
 > Решите неравенство <span class="katex"> \log_2 (x^2-2) - \log_2 x \le \log_2 (x - \frac{2}{x^2}) </span>.
 
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_346.jpg">
+</details>
+
 ### Вариант 34
 > Решите неравенство <span class="katex"> \log_5 (2 - \frac{2}{x}) - \log_5 (x+3) \ge \log_5 (\frac{x+3}{x^2}) </span>.
 
