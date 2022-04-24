@@ -122,6 +122,12 @@
 <b>Ответ:</b> 120.
 </details>
 
+### Вариант 31
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_349.jpg">
+<b>Ответ:</b> 62.
+</details>
+
 ### Вариант 32
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_327.jpg">
