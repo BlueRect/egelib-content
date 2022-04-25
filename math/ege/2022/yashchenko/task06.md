@@ -55,6 +55,12 @@
 <b>Ответ:</b> 6.
 </details>
 
+### Вариант 20
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_376.jpg">
+<b>Ответ:</b> 14.
+</details>
+
 ### Вариант 21
 <details><summary>Решение</summary>
 На промежутке [-2; 2] производная отрицательна, значит функция постоянно убывает. Получается, функция принимает наименьшее значение на промежутке [-2; 2] при x = 2.
