@@ -86,6 +86,12 @@
 <b>Ответ:</b> 0,15.
 </details>
 
+### Вариант 27
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_371.jpg">
+<b>Ответ:</b> 0,343.
+</details>
+
 ### Вариант 28
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_370.jpg">
