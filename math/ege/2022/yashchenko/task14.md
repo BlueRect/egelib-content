@@ -106,6 +106,10 @@
 
 ### Вариант 21
 > Решите неравенство <span class="katex"> \log_{0,5} (12-6x) \ge \log_{0,5}(x^2 - 6x + 8) + \log_{0,5}(x+3) </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_375.jpg">
+<b>Ответ:</b> [–2; 2).
+</details>
 
 ### Вариант 22
 > Решите неравенство <span class="katex"> \log_2 (18-9x) - \log_2(x+2) > \log_2 (x^2 - 6x + 8) </span>.
