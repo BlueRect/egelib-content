@@ -69,6 +69,12 @@
 <b>Ответ:</b> 3.
 </details>
 
+### Вариант 23
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_374.jpg">
+<b>Ответ:</b> 3.
+</details>
+
 ### Вариант 24
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_372.jpg">
