@@ -151,6 +151,12 @@ f(–5) = (–5 – 4)<sup>2</sup> – 3 = (–9)<sup>2</sup> – 3 = 81 – 3 =
 <b>Ответ:</b> -5.
 </details>
 
+### Вариант 21
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_367.jpg">
+<b>Ответ:</b> -7.
+</details>
+
 ### Вариант 22
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_166.jpg">
