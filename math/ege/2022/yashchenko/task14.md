@@ -139,6 +139,10 @@
 
 ### Вариант 28
 > Решите неравенство <span class="katex"> \sqrt{x+3} · \log_{\frac{1}{3}} (\log_3 |1+x|) \le 0 </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_369.jpg">
+<b>Ответ:</b> {–3} U [2; +∞).
+</details>
 
 ### Вариант 29
 > Решите неравенство <span class="katex"> 4^{2x+1,5} - 9^{x+0,5} \ge 2 · 12^x </span>.
