@@ -133,6 +133,9 @@
 
 ### Вариант 27
 > Решите неравенство <span class="katex"> \sqrt{x + \frac{1}{2}} · \log_{\frac{1}{2}} (\log_2 |1-x|) \ge 0 </span>.
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_368.jpg">
+</details>
 
 ### Вариант 28
 > Решите неравенство <span class="katex"> \sqrt{x+3} · \log_{\frac{1}{3}} (\log_3 |1+x|) \le 0 </span>.
