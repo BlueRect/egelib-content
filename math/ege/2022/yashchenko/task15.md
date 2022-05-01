@@ -97,6 +97,14 @@
 > — к июлю 2035 года кредит должен быть полностью погашен.<br><br>
 > Найдите общую сумму выплат после полного погашения кредита.
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_390.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_391.jpg">
+</gallery>
+<b>Ответ:</b> 1300 тыс. руб.
+</details>
+
 ### Вариант 10
 > В июле 2023 года планируется взять кредит на 12 лет в размере 1200 тыс. рублей. Условия возврата таковы:<br>
 > — каждый январь с 2024 по 2039 год долг возрастает на 18% по сравнению с концом предыдущего года;<br>
