@@ -10,6 +10,14 @@
 > — к июлю 2033 года долг должен быть полностью погашен.<br><br>
 > Какую сумму планируется взять в кредит, если общая сумма выплат после полного его погашения составит 1125 тысяч рублей?
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_382.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_383.jpg">
+</gallery>
+<b>Ответ:</b> 600 тыс. руб.
+</details>
+
 ### Вариант 2
 > В июле 2025 года планируется взять кредит в банке на 10 лет. Условия его возврата таковы:<br>
 > — каждый январь с 2024 по 2028 год долг возрастает на 18% по сравнению с концом предыдущего года;<br>
