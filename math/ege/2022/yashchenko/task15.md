@@ -66,6 +66,14 @@
 > — к июлю 2031 года кредит должен быть полностью погашен.<br><br>
 > Известно что общая сумма выплат после полного погашения кредита составит 498 тысяч рублей. Найдите *r*.
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_388.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_389.jpg">
+</gallery>
+<b>Ответ:</b> 16.
+</details>
+
 ### Вариант 6
 > В июле 2023 года планируется взять кредит на 8 лет в размере 800 тыс. рублей. Условия возврата таковы:<br>
 > — каждый январь с 2024 о 2027 год долг возрастает на *r*% по сравнению с концом предыдущего года;<br>
