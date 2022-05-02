@@ -130,6 +130,15 @@
 <b>Ответ:</b> 1080 тыс. руб.
 </details>
 
+### Вариант 21
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_396.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_397.jpg">
+</gallery>
+<b>Ответ:</b> 39.
+</details>
+
 ### Вариант 23
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_239.jpg">
