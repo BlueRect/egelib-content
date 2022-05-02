@@ -143,6 +143,11 @@
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_239.jpg">
 <b>Ответ:</b> 2,58.
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_398.jpg">
+<b>Ответ:</b> 2,58.
 </details>
 
 ### Вариант 24
