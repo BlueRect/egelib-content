@@ -113,6 +113,13 @@
 > — в июле каждого года долг должен быть полностью погашен.<br><br>
 > Найдите общую сумму выплат после полного погашения кредита.
 
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_392.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_393.jpg">
+</gallery>
+<b>Ответ:</b> 2541 тыс. руб.
+</details>
 
 ### Вариант 23
 <details><summary>Решение</summary>
