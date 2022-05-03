@@ -155,3 +155,10 @@
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_240.jpg">
 <b>Ответ:</b> 4,05.
 </details>
+
+### Вариант 29
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_399.jpg">
+<b>Ответ:</b> 5,35.
+</details>
+
