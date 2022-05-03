@@ -106,6 +106,12 @@
 <b>Ответ:</b> 0,064.
 </details>
 
+### Вариант 29
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_400.jpg">
+<b>Ответ:</b> 0,36.
+</details>
+
 ### Вариант 33
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_344.jpg">
