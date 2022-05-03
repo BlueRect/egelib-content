@@ -73,6 +73,12 @@
 
 ### Вариант 10
 > Решите неравенство <span class="katex"> 4 · 9^{1 - \frac{5}{x}} - 91 · 12^{-\frac{5}{x}} + 3 · 4^{2 - \frac{10}{x}} \ge 0 </span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_405.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_406.jpg">
+</gallery>
+</details>
 
 ### Вариант 11
 > Решите неравенство <span class="katex"> x^2 \log_{64} (3-2x) \ge \log_2 (4x^2 - 12x + 9) </span>.
