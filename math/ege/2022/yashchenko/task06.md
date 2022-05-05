@@ -61,6 +61,12 @@
 <b>Ответ:</b> -0,2.
 </details>
 
+### Вариант 12
+<details><summary>Решение</summary>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_06_12.jpg">
+<b>Ответ:</b> 7.
+</details>
+
 ### Вариант 13
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/yashchenko_06_13.jpg">
