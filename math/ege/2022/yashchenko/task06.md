@@ -85,6 +85,13 @@
 <b>Ответ:</b> 6.
 </details>
 
+### Вариант 17
+<details><summary>Решение</summary>
+Функция убывает, если её производная отрицательна. Нам подходят следующие точки: x1, x5, x6, x7, x8, x9. Всего 6.
+
+<b>Ответ:</b> 6.
+</details>
+
 ### Вариант 20
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_376.jpg">
