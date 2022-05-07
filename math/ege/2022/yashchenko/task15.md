@@ -141,7 +141,7 @@
 
 <details><summary>Решение 2</summary>
 <gallery>
-<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_409.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_411.jpg">
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_410.jpg">
 </gallery>
 <b>Ответ:</b> 39.
