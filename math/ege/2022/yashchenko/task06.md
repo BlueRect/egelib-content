@@ -172,6 +172,16 @@
 <b>Ответ:</b> 7.
 </details>
 
+### Вариант 33
+<details><summary>Решение</summary>
+
+Дан график производной f(x).<br><br>
+y'(x) = (-x + 2)' = -1;<br><br>
+Нам нужны точки, в которых f(x) = y'(x) = -1. Всего их 7.
+
+<b>Ответ:</b> 7.
+</details>
+
 ### Вариант 36
 <details><summary>Решение</summary>
 <img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_416.jpg">
