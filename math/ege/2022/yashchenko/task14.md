@@ -140,6 +140,12 @@
 
 ### Вариант 26
 > Решите неравенство <span class="katex"> 3 \log^2_4 (4-x)^8 + 4\log_{0,5} (4-x)^6 \ge 72 </span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_421.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_422.jpg">
+</gallery>
+</details>
 
 ### Вариант 27
 > Решите неравенство <span class="katex"> \sqrt{x + \frac{1}{2}} · \log_{\frac{1}{2}} (\log_2 |1-x|) \ge 0 </span>.
