@@ -137,6 +137,12 @@
 
 ### Вариант 25
 > Решите неравенство <span class="katex"> \log^2_{0,2} (x-3)^8 + 8\log_5 (x-3)^4 \le 32 </span>.
+<details><summary>Решение</summary>
+<gallery>
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_423.jpg">
+<img src="https://raw.githubusercontent.com/BlueRect/egelib-content/main/img/Document%2028_424.jpg">
+</gallery>
+</details>
 
 ### Вариант 26
 > Решите неравенство <span class="katex"> 3 \log^2_4 (4-x)^8 + 4\log_{0,5} (4-x)^6 \ge 72 </span>.
